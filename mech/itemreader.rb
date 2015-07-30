@@ -1,7 +1,9 @@
 require 'json'
 
 
-arraynames = ['AntiSemiticRhetoric','Bartering','BusinessPractices','ContextualResource','CulturalExchange','Family','LiteraryArtisticDepiction','NonPeddlingBackground','PeddlingBackground','ReligiousPractices','RestrictionsCommerce','Routes','Sponsor','SubsequentCommercialCareers','SubsequentNonCommercial','Transportation','VictimsOfCrime','Wares']
+arraynames = ['Book','BookSection','Webpage','Thesis','JournalArticle','Document','NewspaperArticle']
+
+#arraynames = ['AntiSemiticRhetoric','Bartering','BusinessPractices','ContextualResource','CulturalExchange','Family','LiteraryArtisticDepiction','NonPeddlingBackground','PeddlingBackground','ReligiousPractices','RestrictionsCommerce','Routes','Sponsor','SubsequentCommercialCareers','SubsequentNonCommercial','Transportation','VictimsOfCrime','Wares']
 arraylen = arraynames.length
 
 r = 0
