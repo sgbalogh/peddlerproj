@@ -1,0 +1,146 @@
+{
+  "jp_cite_00001": {
+    "Locations": {
+      "Limerick, Ireland": {
+        "lat": 52.66472,
+        "lon": -8.62306,
+        "meters_x": -959914.6481462246,
+        "meters_y": 6921219.404012834,
+        "countryName": "Ireland",
+        "population": 90054,
+        "geonameId": 2962943,
+        "rdfLink": "http://sws.geonames.org/2962943/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(-959914.6481462246 6921219.404012834)"
+      },
+      "Russia": {
+        "lat": 60.0,
+        "lon": 100.0,
+        "meters_x": 11131949.077777777,
+        "meters_y": 8399737.888649108,
+        "countryName": "Russia",
+        "population": 140702000,
+        "geonameId": 2017370,
+        "rdfLink": "http://sws.geonames.org/2017370/about.rdf",
+        "fclName": "country, state, region,...",
+        "wktGeom": "POINT(11131949.077777777 8399737.888649108)"
+      },
+      "Poland": {
+        "lat": 52.0,
+        "lon": 20.0,
+        "meters_x": 2226389.8155555557,
+        "meters_y": 6800125.453450721,
+        "countryName": "Poland",
+        "population": 38500000,
+        "geonameId": 798544,
+        "rdfLink": "http://sws.geonames.org/798544/about.rdf",
+        "fclName": "country, state, region,...",
+        "wktGeom": "POINT(2226389.8155555557 6800125.453450721)"
+      },
+      "Gemany": {
+      }
+    },
+    "Dates": {
+      "begin": 1600,
+      "end": 1907
+    },
+    "SubjectTerms": [
+      "Business Practices",
+      "Anti-Semitic Rhetoric"
+    ],
+    "Individuals": [
+
+    ],
+    "Authors": [
+      "Abbott, G. F"
+    ],
+    "Title": "Israel in Europe",
+    "extra": "jp_cite_00001",
+    "key": "WTP2HK6F",
+    "itemtype": "Book",
+    "publicationyear": 1907,
+    "date": 1907,
+    "dateadded": "3/4/2014 17:36:20",
+    "datemodified": "11/18/2014 15:47:01",
+    "publisher": "Macmillan and Co.",
+    "language": "English",
+    "librarycatalog": "Open WorldCat",
+    "geom": "POINT(-960742.586858884 6921825.217678591)|POINT(11724030.287269026 8747149.047572464)|POINT(2131226.7903913013 6785571.89784786)|POINT(1163458.5521707046 6650655.040248428)"
+  },
+  "jp_cite_00002": {
+    "Locations": {
+      "Western Pennsylvania": {
+        "lat": 40.46188,
+        "lon": -79.94631,
+        "meters_x": -8899582.518762363,
+        "meters_y": 4933290.189275247,
+        "countryName": "United States",
+        "population": 0,
+        "geonameId": 5218959,
+        "rdfLink": "http://sws.geonames.org/5218959/about.rdf",
+        "fclName": "spot, building, farm",
+        "wktGeom": "POINT(-8899582.518762363 4933290.189275247)"
+      },
+      "Maryland": {
+        "lat": 39.00039,
+        "lon": -76.74997,
+        "meters_x": -8543767.577609722,
+        "meters_y": 4721727.436230466,
+        "countryName": "United States",
+        "population": 5624246,
+        "geonameId": 4361885,
+        "rdfLink": "http://sws.geonames.org/4361885/about.rdf",
+        "fclName": "country, state, region,...",
+        "wktGeom": "POINT(-8543767.577609722 4721727.436230466)"
+      },
+      "Virginia": {
+        "lat": 38.34982,
+        "lon": -81.63262,
+        "meters_x": -9087301.689255837,
+        "meters_y": 4628962.196015853,
+        "countryName": "United States",
+        "population": 51400,
+        "geonameId": 4801859,
+        "rdfLink": "http://sws.geonames.org/4801859/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(-9087301.689255837 4628962.196015853)"
+      },
+      "Baltimore, Maryland": {
+        "lat": 39.29038,
+        "lon": -76.61219,
+        "meters_x": -8528429.97817036,
+        "meters_y": 4763351.781548444,
+        "countryName": "United States",
+        "population": 620961,
+        "geonameId": 4347778,
+        "rdfLink": "http://sws.geonames.org/4347778/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(-8528429.97817036 4763351.781548444)"
+      }
+    },
+    "Dates": {
+      "begin": 1850,
+      "end": 1920
+    },
+    "SubjectTerms": [
+      "Transportation"
+    ],
+    "Individuals": [
+
+    ],
+    "Authors": [
+      "Aberbach, Moses"
+    ],
+    "Title": "German Jews in Baltimore",
+    "extra": "jp_cite_00002",
+    "key": "H8TIAGTA",
+    "itemtype": "Document",
+    "publicationyear": 1970,
+    "date": "2/1/1970",
+    "dateadded": "10/13/2014 15:13:16",
+    "datemodified": "5/14/2015 16:42:43",
+    "language": "English",
+    "archivelocation": "Vertical Files, Jewish Museum of Maryland",
+    "geom": "POINT(-8918976.110639907 4811126.640993009)|POINT(-8531667.282545565 4728227.689508769)|POINT(-8756045.408505542 4499434.498314741)|POINT(-8528429.900246715 4763352.471949581)"
+  }
+}
