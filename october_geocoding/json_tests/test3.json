@@ -1,0 +1,365 @@
+{
+  "jp_cite_00001": {
+    "Locations": {
+      "Limerick, Ireland": {
+        "lat": "52.66472",
+        "lon": "-8.62306",
+        "meters_x": -959914.6481462246,
+        "meters_y": 6921219.404012834,
+        "countryName": "Ireland",
+        "population": 90054,
+        "geonameId": 2962943,
+        "rdfLink": "http://sws.geonames.org/2962943/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(-959914.6481462246 6921219.404012834)"
+      },
+      "Russia": {
+        "lat": "60",
+        "lon": "100",
+        "meters_x": 11131949.077777777,
+        "meters_y": 8399737.888649108,
+        "countryName": "Russia",
+        "population": 140702000,
+        "geonameId": 2017370,
+        "rdfLink": "http://sws.geonames.org/2017370/about.rdf",
+        "fclName": "country, state, region,...",
+        "wktGeom": "POINT(11131949.077777777 8399737.888649108)"
+      },
+      "Poland": {
+        "lat": "52",
+        "lon": "20",
+        "meters_x": 2226389.8155555557,
+        "meters_y": 6800125.453450721,
+        "countryName": "Poland",
+        "population": 38500000,
+        "geonameId": 798544,
+        "rdfLink": "http://sws.geonames.org/798544/about.rdf",
+        "fclName": "country, state, region,...",
+        "wktGeom": "POINT(2226389.8155555557 6800125.453450721)"
+      },
+      "Gemany": {
+      }
+    },
+    "Dates": {
+      "beginDate": 1600,
+      "endDate": 1907
+    },
+    "SubjectTerms": [
+      "Business Practices",
+      "Anti-Semitic Rhetoric"
+    ],
+    "Individuals": [
+
+    ],
+    "Authors": [
+      "Abbott, G. F"
+    ],
+    "Title": "Israel in Europe"
+  },
+  "jp_cite_00002": {
+    "Locations": {
+      "Western Pennsylvania": {
+        "lat": "40.46188",
+        "lon": "-79.94631",
+        "meters_x": -8899582.518762363,
+        "meters_y": 4933290.189275247,
+        "countryName": "United States",
+        "population": 0,
+        "geonameId": 5218959,
+        "rdfLink": "http://sws.geonames.org/5218959/about.rdf",
+        "fclName": "spot, building, farm",
+        "wktGeom": "POINT(-8899582.518762363 4933290.189275247)"
+      },
+      "Maryland": {
+        "lat": "39.00039",
+        "lon": "-76.74997",
+        "meters_x": -8543767.577609722,
+        "meters_y": 4721727.436230466,
+        "countryName": "United States",
+        "population": 5624246,
+        "geonameId": 4361885,
+        "rdfLink": "http://sws.geonames.org/4361885/about.rdf",
+        "fclName": "country, state, region,...",
+        "wktGeom": "POINT(-8543767.577609722 4721727.436230466)"
+      },
+      "Virginia": {
+        "lat": "38.34982",
+        "lon": "-81.63262",
+        "meters_x": -9087301.689255837,
+        "meters_y": 4628962.196015853,
+        "countryName": "United States",
+        "population": 51400,
+        "geonameId": 4801859,
+        "rdfLink": "http://sws.geonames.org/4801859/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(-9087301.689255837 4628962.196015853)"
+      },
+      "Baltimore, Maryland": {
+        "lat": "39.29038",
+        "lon": "-76.61219",
+        "meters_x": -8528429.97817036,
+        "meters_y": 4763351.781548444,
+        "countryName": "United States",
+        "population": 620961,
+        "geonameId": 4347778,
+        "rdfLink": "http://sws.geonames.org/4347778/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(-8528429.97817036 4763351.781548444)"
+      }
+    },
+    "Dates": {
+      "beginDate": 1850,
+      "endDate": 1920
+    },
+    "SubjectTerms": [
+      "Transportation"
+    ],
+    "Individuals": [
+
+    ],
+    "Authors": [
+      "Aberbach, Moses"
+    ],
+    "Title": "German Jews in Baltimore"
+  },
+  "jp_cite_00003": {
+    "Locations": {
+      "Oudtshoorn, South Africa": {
+        "lat": "-33.60047",
+        "lon": "22.19955",
+        "meters_x": 2471242.601495817,
+        "meters_y": -3975280.2441342743,
+        "countryName": "South Africa",
+        "population": 76708,
+        "geonameId": 967106,
+        "rdfLink": "http://sws.geonames.org/967106/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(2471242.601495817 -3975280.2441342743)"
+      },
+      "Kimberley, South Africa": {
+        "lat": "-28.73226",
+        "lon": "24.76232",
+        "meters_x": 2756528.852876382,
+        "meters_y": -3341612.6665758463,
+        "countryName": "South Africa",
+        "population": 142089,
+        "geonameId": 990930,
+        "rdfLink": "http://sws.geonames.org/990930/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(2756528.852876382 -3341612.6665758463)"
+      },
+      "Cape Town, South Africa": {
+        "lat": "-33.92584",
+        "lon": "18.42322",
+        "meters_x": 2050863.4688869712,
+        "meters_y": -4018848.4909761865,
+        "countryName": "South Africa",
+        "population": 3433441,
+        "geonameId": 3369157,
+        "rdfLink": "http://sws.geonames.org/3369157/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(2050863.4688869712 -4018848.4909761865)"
+      },
+      "Transvaal": {
+        "lat": "-24",
+        "lon": "29.5",
+        "meters_x": 3283924.9779444444,
+        "meters_y": -2753408.108981703,
+        "countryName": "South Africa",
+        "population": 5494928,
+        "geonameId": 1085597,
+        "rdfLink": "http://sws.geonames.org/1085597/about.rdf",
+        "fclName": "country, state, region,...",
+        "wktGeom": "POINT(3283924.9779444444 -2753408.108981703)"
+      },
+      "Natal": {
+        "lat": "-5.795",
+        "lon": "-35.20944",
+        "meters_x": -3919496.93137072,
+        "meters_y": -646199.1241726291,
+        "countryName": "Brazil",
+        "population": 763043,
+        "geonameId": 3394023,
+        "rdfLink": "http://sws.geonames.org/3394023/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(-3919496.93137072 -646199.1241726291)"
+      },
+      "Volhynia": {
+        "lat": "51",
+        "lon": "26",
+        "meters_x": 2894306.760222222,
+        "meters_y": 6621293.721818472,
+        "countryName": "Ukraine",
+        "population": 0,
+        "geonameId": 689067,
+        "rdfLink": "http://sws.geonames.org/689067/about.rdf",
+        "fclName": "parks,area, ...",
+        "wktGeom": "POINT(2894306.760222222 6621293.721818472)"
+      },
+      "Podolia": {
+        "lat": "48.83333",
+        "lon": "28",
+        "meters_x": 3116945.7417777777,
+        "meters_y": 6246628.154402052,
+        "countryName": "Ukraine",
+        "population": 0,
+        "geonameId": 696861,
+        "rdfLink": "http://sws.geonames.org/696861/about.rdf",
+        "fclName": "parks,area, ...",
+        "wktGeom": "POINT(3116945.7417777777 6246628.154402052)"
+      },
+      "Kiev": {
+        "lat": "50.45466",
+        "lon": "30.5238",
+        "meters_x": 3397893.872602734,
+        "meters_y": 6525390.45869064,
+        "countryName": "Ukraine",
+        "population": 2797553,
+        "geonameId": 703448,
+        "rdfLink": "http://sws.geonames.org/703448/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(3397893.872602734 6525390.45869064)"
+      },
+      "Grodno": {
+        "lat": "53.6884",
+        "lon": "23.8258",
+        "meters_x": 2652275.923373178,
+        "meters_y": 7111362.467210678,
+        "countryName": "Belarus",
+        "population": 317365,
+        "geonameId": 627904,
+        "rdfLink": "http://sws.geonames.org/627904/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(2652275.923373178 7111362.467210678)"
+      },
+      "Vilna": {
+        "lat": "54.68916",
+        "lon": "25.2798",
+        "meters_x": 2814134.462964067,
+        "meters_y": 7301770.621303415,
+        "countryName": "Lithuania",
+        "population": 542366,
+        "geonameId": 593116,
+        "rdfLink": "http://sws.geonames.org/593116/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(2814134.462964067 7301770.621303415)"
+      },
+      "Kovno": {
+        "lat": "54.9",
+        "lon": "23.9",
+        "meters_x": 2660535.8295888887,
+        "meters_y": 7342482.289166187,
+        "countryName": "Lithuania",
+        "population": 374643,
+        "geonameId": 598316,
+        "rdfLink": "http://sws.geonames.org/598316/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(2660535.8295888887 7342482.289166187)"
+      },
+      "Suwalki": {
+        "lat": "54.11175",
+        "lon": "22.93087",
+        "meters_x": 2552652.771491421,
+        "meters_y": 7191348.8772785235,
+        "countryName": "Poland",
+        "population": 69222,
+        "geonameId": 757718,
+        "rdfLink": "http://sws.geonames.org/757718/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(2552652.771491421 7191348.8772785235)"
+      },
+      "Courland": {
+        "lat": "11.21035",
+        "lon": "-60.77288",
+        "meters_x": -6765206.054698995,
+        "meters_y": 1255969.697015609,
+        "countryName": "Trinidad and Tobago",
+        "population": 0,
+        "geonameId": 3574727,
+        "rdfLink": "http://sws.geonames.org/3574727/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(-6765206.054698995 1255969.697015609)"
+      },
+      "Ponevesz": {
+      },
+      "Rietovo": {
+      },
+      "Yanishik": {
+      },
+      "Shavi": {
+        "lat": "30.78446",
+        "lon": "48.77532",
+        "meters_x": 5429643.78492316,
+        "meters_y": 3604788.6935615316,
+        "countryName": "Iran",
+        "population": 0,
+        "geonameId": 7416560,
+        "rdfLink": "http://sws.geonames.org/7416560/about.rdf",
+        "fclName": "city, village,...",
+        "wktGeom": "POINT(5429643.78492316 3604788.6935615316)"
+      },
+      "Plungyan": {
+      }
+    },
+    "Dates": {
+      "beginDate": 1870,
+      "endDate": 1910
+    },
+    "SubjectTerms": [
+      "Transportation",
+      "Cultural Exchange",
+      "Religious Practice",
+      "Wares"
+    ],
+    "Individuals": [
+
+    ],
+    "Authors": [
+      "Abrahams, Israel"
+    ],
+    "Title": "The birth of a community: a history of Western Province Jewry from earliest times to the end of the South African War, 1902"
+  },
+  "jp_cite_00004": {
+    "Locations": {
+      "Denmark": {
+        "lat": "56",
+        "lon": "10",
+        "meters_x": 1113194.9077777779,
+        "meters_y": 7558415.655029641,
+        "countryName": "Denmark",
+        "population": 5484000,
+        "geonameId": 2623032,
+        "rdfLink": "http://sws.geonames.org/2623032/about.rdf",
+        "fclName": "country, state, region,...",
+        "wktGeom": "POINT(1113194.9077777779 7558415.655029641)"
+      },
+      "Norway": {
+        "lat": "62",
+        "lon": "10",
+        "meters_x": 1113194.9077777779,
+        "meters_y": 8859142.799332488,
+        "countryName": "Norway",
+        "population": 5009150,
+        "geonameId": 3144096,
+        "rdfLink": "http://sws.geonames.org/3144096/about.rdf",
+        "fclName": "country, state, region,...",
+        "wktGeom": "POINT(1113194.9077777779 8859142.799332488)"
+      }
+    },
+    "Dates": {
+      "beginDate": 1814,
+      "endDate": 1850
+    },
+    "SubjectTerms": [
+      "Anti-Semitic Rhetoric",
+      "Contextual Resource"
+    ],
+    "Individuals": [
+
+    ],
+    "Authors": [
+      "Abrahamsen, Samuel"
+    ],
+    "Title": "Emancipation and Victimization of Jews of Denmark and Norway"
+  }
+}
