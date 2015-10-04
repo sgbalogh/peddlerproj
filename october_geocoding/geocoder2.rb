@@ -19,8 +19,10 @@ end
 
 records = {}
 geometry = Array.new
+singleValElements = Array.new
+singleValElements = [0,1,2,3,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,36,37,38,39,40,41,42,43,44,45,46,53,54,55,56,57,58,59,60,184]
 
-data = CSV.foreach('/Users/stephen/git/peddlerproj/october_geocoding/all_data_oct15_brief.csv', {:headers => true, :header_converters => :symbol, :converters => :all}) do |line|
+data = CSV.foreach('/Users/stephen/git/peddlerproj/october_geocoding/all_data_oct15.csv', {:headers => true, :header_converters => :symbol, :converters => :all}) do |line|
 
   records[line.fields[0]] = Hash.new
 
@@ -29,6 +31,9 @@ data = CSV.foreach('/Users/stephen/git/peddlerproj/october_geocoding/all_data_oc
   records[line.fields[0]][:SubjectTerms] = []
   records[line.fields[0]][:Individuals] = []
   records[line.fields[0]][:Authors] = []
+  records[line.fields[0]][:Editors] = []
+  records[line.fields[0]][:PublicationPlace] = []
+
 
   #Places
   locCount = 1
@@ -46,9 +51,9 @@ data = CSV.foreach('/Users/stephen/git/peddlerproj/october_geocoding/all_data_oc
   #Dates
 
       beginDate = line[178]
-      records[line.fields[0]][:Dates]["beginDate"] = beginDate
+      records[line.fields[0]][:Dates]["begin"] = beginDate
   endDate = line[179]
-  records[line.fields[0]][:Dates]["endDate"] = endDate
+  records[line.fields[0]][:Dates]["end"] = endDate
 
 
 
@@ -59,6 +64,28 @@ data = CSV.foreach('/Users/stephen/git/peddlerproj/october_geocoding/all_data_oc
     if (line[97+locCount].to_s != '')
       currLoc = line[97+locCount]
       records[line.fields[0]][:SubjectTerms].push(currLoc)
+    end
+    locCount += 1
+  end
+
+  #Editors
+  locCount = 1
+  while (locCount <= 5) do
+
+    if (line[47+locCount].to_s != '')
+      currLoc = line[47+locCount]
+      records[line.fields[0]][:Editors].push(currLoc)
+    end
+    locCount += 1
+  end
+
+  #PublicationPlace
+  locCount = 1
+  while (locCount <= 3) do
+
+    if (line[32+locCount].to_s != '')
+      currLoc = line[32+locCount]
+      records[line.fields[0]][:PublicationPlace].push(currLoc)
     end
     locCount += 1
   end
@@ -92,6 +119,18 @@ data = CSV.foreach('/Users/stephen/git/peddlerproj/october_geocoding/all_data_oc
   #records[line.fields[10]][:newgeomo]
   #puts geometry.to_json
 
+  # Creates individual value keys
+
+  singleValElements.each do |x|
+    unless line.fields[x].nil? || line.fields[x] == 0
+    records[line.fields[0]][line.headers[x]] = line.fields[x]
+    end
+
+
+  end
+
+
+
 end
 
 records.each do |key, value|
@@ -111,8 +150,8 @@ records.each do |key, value|
           fclName = apiResponse["geonames"][0]["fclName"]
           rdfLink = "http://sws.geonames.org/#{geonameId}/about.rdf"
           projected = degrees_to_meters(lng.to_f, lat.to_f)
-          value2[key3].merge!(lat: lat)
-          value2[key3].merge!(lon: lng)
+          value2[key3].merge!(lat: lat.to_f)
+          value2[key3].merge!(lon: lng.to_f)
           value2[key3].merge!(meters_x: projected[0])
           value2[key3].merge!(meters_y: projected[1])
           value2[key3].merge!(countryName: countryName)
@@ -126,6 +165,9 @@ records.each do |key, value|
     end
   end
 end
+
+
+
 puts JSON.pretty_generate(records)
 
 
