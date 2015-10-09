@@ -6,7 +6,7 @@ require 'open-uri'
 require 'erb'
 require 'json'
 
-file = File.read('/Users/stephen/git/peddlerproj/october_geocoding/test_full.json')
+file = File.read('/Users/stephen/git/peddlerproj/october_geocoding/json_reports/hashAllRecords.json')
 
 inputHash = JSON.parse(file)
 outputHash = {:type => "FeatureCollection", :features => []}
@@ -15,6 +15,9 @@ outputHash = {:type => "FeatureCollection", :features => []}
 inputHash.each do |key, value|
 
   currentFeature = {:type => "Feature", :properties => {:name => inputHash[key]["Title"], :author => inputHash[key]["Authors"],
+                                                        :itemtype => inputHash[key]["itemtype"],
+                                                        :date => inputHash[key]["date"],
+                                                        :URI => inputHash[key]["extra"],
                                                   :locations => inputHash[key]["Locations"]},
               :geometry => {:type => "MultiPoint", :coordinates => []}}
   ## Above creates a temporary hash, the below will populate the :coordinates array within :geometry whenever lat/lon exist
