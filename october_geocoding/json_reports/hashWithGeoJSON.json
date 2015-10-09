@@ -8,6 +8,9 @@
         "author": [
           "Abbott, G. F"
         ],
+        "itemtype": "Book",
+        "date": 1907,
+        "URI": "jp_cite_00001",
         "locations": {
           "Limerick, Ireland": {
             "lat": 52.66472,
@@ -74,6 +77,9 @@
         "author": [
           "Aberbach, Moses"
         ],
+        "itemtype": "Document",
+        "date": "2/1/1970",
+        "URI": "jp_cite_00002",
         "locations": {
           "Western Pennsylvania": {
             "lat": 40.46188,
@@ -154,6 +160,9 @@
         "author": [
           "Abrahams, Israel"
         ],
+        "itemtype": "Book",
+        "date": 1955,
+        "URI": "jp_cite_00003",
         "locations": {
           "Oudtshoorn, South Africa": {
             "lat": -33.60047,
@@ -402,6 +411,9 @@
         "author": [
           "Abrahamsen, Samuel"
         ],
+        "itemtype": "Thesis",
+        "date": null,
+        "URI": "jp_cite_00004",
         "locations": {
           "Denmark": {
             "lat": 56.0,
@@ -450,6 +462,9 @@
         "author": [
           "Abramovitch, Hirsch"
         ],
+        "itemtype": "Journal Article",
+        "date": "1947-1948",
+        "URI": "jp_cite_00005",
         "locations": {
           "Kovno": {
             "lat": 54.9,
@@ -532,6 +547,9 @@
           "Shandler, Jeffrey",
           "Fishman, David E"
         ],
+        "itemtype": "Book",
+        "date": 1999,
+        "URI": "jp_cite_00006",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -612,6 +630,9 @@
         "author": [
           "Abrams, Alan E"
         ],
+        "itemtype": "Book",
+        "date": 1981,
+        "URI": "jp_cite_00007",
         "locations": {
           "Windsor, Ontario": {
             "lat": 42.30008,
@@ -676,6 +697,9 @@
         "author": [
           "Abrams, Jeanne E"
         ],
+        "itemtype": "Book",
+        "date": 2006,
+        "URI": "jp_cite_00008",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -804,6 +828,9 @@
         "author": [
           "Abrams, Nathan"
         ],
+        "itemtype": "Book",
+        "date": 2009,
+        "URI": "jp_cite_00009",
         "locations": {
           "Stirling, Scotland": {
             "lat": 56.11903,
@@ -1064,6 +1091,9 @@
         "author": [
           "Austrian, Joseph"
         ],
+        "itemtype": "Document",
+        "date": 1904,
+        "URI": "jp_cite_00010",
         "locations": {
           "Wittelshofen, Germany": {
             "lat": 49.06121,
@@ -1162,6 +1192,9 @@
         "author": [
           "Cohen, Abraham B"
         ],
+        "itemtype": "Book",
+        "date": 1958,
+        "URI": "jp_cite_00011",
         "locations": {
           "Scranton, Pennsylvania": {
             "lat": 41.40916,
@@ -1259,6 +1292,9 @@
           "Cohen, J. X.",
           "American Jewish Congress"
         ],
+        "itemtype": "Book",
+        "date": 1941,
+        "URI": "jp_cite_00012",
         "locations": {
           "Rio de Janeiro, Brazil": {
             "lat": -22.90278,
@@ -1339,6 +1375,9 @@
         "author": [
           "Creamer, John"
         ],
+        "itemtype": "Document",
+        "date": "10/8/1985",
+        "URI": "jp_cite_00013",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -1421,6 +1460,9 @@
         "author": [
           "Frank, Isaac"
         ],
+        "itemtype": "Document",
+        "date": 1909,
+        "URI": "jp_cite_00014",
         "locations": {
           "Cleveland, Ohio": {
             "lat": 41.4995,
@@ -1941,6 +1983,9 @@
         "author": [
           "Hirsch, Aaron"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00015",
         "locations": {
           "Paris, France": {
             "lat": 48.85341,
@@ -1989,6 +2034,9 @@
         "author": [
           "Abbey, Alan D."
         ],
+        "itemtype": "Webpage",
+        "date": "4/10/2012",
+        "URI": "jp_cite_00016",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -2054,6 +2102,9 @@
           "Abrahamson, Abraham",
           "Mihm, Friedrich"
         ],
+        "itemtype": "Journal Article",
+        "date": 1968,
+        "URI": "jp_cite_00017",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -2118,6 +2169,9 @@
         "author": [
           "Schmier, Louis"
         ],
+        "itemtype": "Book Section",
+        "date": 1999,
+        "URI": "jp_cite_00018",
         "locations": {
           "Baisagala, Lithuania": {
           },
@@ -2216,6 +2270,9 @@
         "author": [
           "Adatto, Albert"
         ],
+        "itemtype": "Thesis",
+        "date": 1939,
+        "URI": "jp_cite_00019",
         "locations": {
           "Marmara, Turkey": {
             "lat": 40.98021,
@@ -2264,6 +2321,9 @@
         "author": [
           "Adler, Cyrus"
         ],
+        "itemtype": "Book",
+        "date": 1941,
+        "URI": "jp_cite_00020",
         "locations": {
           "Oklahoma, USA": {
             "lat": 35.46756,
@@ -2313,6 +2373,9 @@
           "Adler, Elkan Nathan",
           "Jewish Publication Society of America"
         ],
+        "itemtype": "Book",
+        "date": 1905,
+        "URI": "jp_cite_00021",
         "locations": {
           "Argentina": {
             "lat": -34.0,
@@ -2345,6 +2408,9 @@
         "author": [
           "Adler, Della Rubinstein"
         ],
+        "itemtype": "Journal Article",
+        "date": "4/1/1966",
+        "URI": "jp_cite_00022",
         "locations": {
           "Volkovisk, Lithuania": {
           },
@@ -2395,6 +2461,9 @@
         "author": [
 
         ],
+        "itemtype": "Book",
+        "date": 1850,
+        "URI": "jp_cite_00023",
         "locations": {
           "Aurora, New York": {
             "lat": 42.76784,
@@ -2491,6 +2560,9 @@
         "author": [
           "Adler, Frank J"
         ],
+        "itemtype": "Book",
+        "date": 1972,
+        "URI": "jp_cite_00024",
         "locations": {
           "Bavaria": {
             "lat": 49.0,
@@ -2572,6 +2644,9 @@
           "Adler, Selig",
           "Connolly, Thomas Edmund"
         ],
+        "itemtype": "Book",
+        "date": 1960,
+        "URI": "jp_cite_00025",
         "locations": {
           "Buffalo, New York": {
             "lat": 42.88645,
@@ -2700,6 +2775,9 @@
         "author": [
           "Agnon, Shmuel Yosef"
         ],
+        "itemtype": "Webpage",
+        "date": "12/1/1966",
+        "URI": "jp_cite_00026",
         "locations": {
         }
       },
@@ -2717,6 +2795,9 @@
         "author": [
           "Agresti, Olivia Rossetti"
         ],
+        "itemtype": "Book",
+        "date": 1922,
+        "URI": "jp_cite_00027",
         "locations": {
           "Klodowa, Poland": {
           },
@@ -2751,6 +2832,9 @@
         "author": [
           "Ain, Abraham"
         ],
+        "itemtype": "Journal Article",
+        "date": 1949,
+        "URI": "jp_cite_00028",
         "locations": {
           "Swislocz, Belarus": {
             "lat": 53.0368,
@@ -2783,6 +2867,9 @@
         "author": [
           "Aizenberg, Isidoro"
         ],
+        "itemtype": "Book",
+        "date": 1983,
+        "URI": "jp_cite_00029",
         "locations": {
           "Curacao": {
             "lat": 12.16667,
@@ -2847,6 +2934,9 @@
         "author": [
           "Alderman, Geoffrey"
         ],
+        "itemtype": "Book",
+        "date": 1992,
+        "URI": "jp_cite_00030",
         "locations": {
           "Glamorganshire, United Kingdom": {
             "lat": 51.66667,
@@ -2913,6 +3003,9 @@
         "author": [
           "Tropp, Mina"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00031",
         "locations": {
           "Poland": {
             "lat": 52.0,
@@ -2961,6 +3054,9 @@
         "author": [
 
         ],
+        "itemtype": "Book Section",
+        "date": 1945,
+        "URI": "jp_cite_00032",
         "locations": {
         }
       },
@@ -2978,6 +3074,9 @@
         "author": [
 
         ],
+        "itemtype": "Book Section",
+        "date": 1945,
+        "URI": "jp_cite_00033",
         "locations": {
           "Leszno, Poland": {
             "lat": 51.84034,
@@ -3010,6 +3109,9 @@
         "author": [
           "Alexander, Daniel Bernard"
         ],
+        "itemtype": "Book",
+        "date": 2001,
+        "URI": "jp_cite_00034",
         "locations": {
           "Hesse-Darmstadt, Germany": {
             "lat": 49.87167,
@@ -3058,6 +3160,9 @@
         "author": [
           "Alexander, Irving"
         ],
+        "itemtype": "Journal Article",
+        "date": "Spring 1990",
+        "URI": "jp_cite_00035",
         "locations": {
           "West Virginia": {
             "lat": 38.34982,
@@ -3090,6 +3195,9 @@
         "author": [
           "Alpert, Jordan"
         ],
+        "itemtype": "Book",
+        "date": 1990,
+        "URI": "jp_cite_00036",
         "locations": {
           "Viliya, Ukraine": {
             "lat": 50.1926,
@@ -3174,6 +3282,9 @@
         "author": [
           "Alroey, Gur"
         ],
+        "itemtype": "Journal Article",
+        "date": "4/1/2006",
+        "URI": "jp_cite_00037",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -3206,6 +3317,9 @@
         "author": [
           "Altmann, Berthold"
         ],
+        "itemtype": "Journal Article",
+        "date": "4/1/1943",
+        "URI": "jp_cite_00038",
         "locations": {
           "Paderborn, Germany": {
             "lat": 51.71905,
@@ -3350,6 +3464,9 @@
         "author": [
           "Abrams, Jeanne"
         ],
+        "itemtype": "Webpage",
+        "date": "11/14/2013",
+        "URI": "jp_cite_00039",
         "locations": {
           "New York, New York": {
             "lat": 40.71427,
@@ -3414,6 +3531,9 @@
         "author": [
           "Aminoff, Helen"
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/1983",
+        "URI": "jp_cite_00040",
         "locations": {
           "Ann Arbor, Michigan": {
             "lat": 42.27756,
@@ -3494,6 +3614,9 @@
         "author": [
           "Anderson, Elaine"
         ],
+        "itemtype": "Journal Article",
+        "date": "6/1/1977",
+        "URI": "jp_cite_00041",
         "locations": {
           "Toledo, Ohio": {
             "lat": 41.66394,
@@ -3527,6 +3650,9 @@
           "Andrade, Jacob A. P. M",
           "Parks, Basil Oscar"
         ],
+        "itemtype": "Book",
+        "date": 1941,
+        "URI": "jp_cite_00042",
         "locations": {
           "Jamaica": {
             "lat": 18.16667,
@@ -3559,6 +3685,9 @@
         "author": [
           "Andrews, Benjamin R."
         ],
+        "itemtype": "Journal Article",
+        "date": "5/1/1929",
+        "URI": "jp_cite_00043",
         "locations": {
           "United States of America": {
             "lat": 39.76,
@@ -3591,6 +3720,9 @@
         "author": [
           "Angel, Marc"
         ],
+        "itemtype": "Book",
+        "date": 1978,
+        "URI": "jp_cite_00044",
         "locations": {
           "Rhodes, Greece": {
             "lat": 36.44288,
@@ -3655,6 +3787,9 @@
         "author": [
           "Applebaum, Phillip"
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/1976",
+        "URI": "jp_cite_00045",
         "locations": {
           "Plock, Poland": {
             "lat": 52.54682,
@@ -3799,6 +3934,9 @@
         "author": [
           "Applebaum, Phillip"
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/1981",
+        "URI": "jp_cite_00046",
         "locations": {
           "Newberry, Michigan": {
             "lat": 46.355,
@@ -3879,6 +4017,9 @@
         "author": [
           "Arbell, Mordehay"
         ],
+        "itemtype": "Book",
+        "date": 2002,
+        "URI": "jp_cite_00047",
         "locations": {
           "Jamaica": {
             "lat": 18.16667,
@@ -4071,6 +4212,9 @@
         "author": [
           "Arkin, Marcus"
         ],
+        "itemtype": "Book",
+        "date": 1975,
+        "URI": "jp_cite_00048",
         "locations": {
           "Lithuania": {
             "lat": 55.41667,
@@ -4119,6 +4263,9 @@
         "author": [
           "Arkin, Marcus"
         ],
+        "itemtype": "Journal Article",
+        "date": 1956,
+        "URI": "jp_cite_00049",
         "locations": {
           "Lithuania": {
             "lat": 55.41667,
@@ -4231,6 +4378,9 @@
         "author": [
           "Cohen, Stephen"
         ],
+        "itemtype": "Book Section",
+        "date": 1984,
+        "URI": "jp_cite_00050",
         "locations": {
           "Kaunas, Lithuania": {
             "lat": 54.9,
@@ -4359,6 +4509,9 @@
         "author": [
           "Arkin, Marcus"
         ],
+        "itemtype": "Journal Article",
+        "date": 2001,
+        "URI": "jp_cite_00051",
         "locations": {
           "KwaZulu-Natal, South Africa": {
             "lat": -29.0,
@@ -4391,6 +4544,9 @@
         "author": [
           "Arkin, Antony"
         ],
+        "itemtype": "Journal Article",
+        "date": 1985,
+        "URI": "jp_cite_00052",
         "locations": {
           "Lithuania": {
             "lat": 55.41667,
@@ -4439,6 +4595,9 @@
         "author": [
           "Arnold, Abraham"
         ],
+        "itemtype": "Journal Article",
+        "date": "1968-1969",
+        "URI": "jp_cite_00053",
         "locations": {
           "Winnipeg, Manitoba": {
             "lat": 49.8844,
@@ -4487,6 +4646,9 @@
         "author": [
           "Arnold, A. J."
         ],
+        "itemtype": "Journal Article",
+        "date": "6/1/1974",
+        "URI": "jp_cite_00054",
         "locations": {
           "Winnipeg, Manitoba": {
             "lat": 49.8844,
@@ -4520,6 +4682,9 @@
           "Arnon, Sara Miller",
           "Miller-Soros, Julie"
         ],
+        "itemtype": "Webpage",
+        "date": null,
+        "URI": "jp_cite_00055",
         "locations": {
           "Vilnius, Lithuania": {
             "lat": 54.68916,
@@ -4600,6 +4765,9 @@
         "author": [
           "Bloom, Eric"
         ],
+        "itemtype": "Document",
+        "date": "7/1/2009",
+        "URI": "jp_cite_00056",
         "locations": {
           "Vilnius, Lithuania": {
             "lat": 54.68916,
@@ -4762,6 +4930,9 @@
         "author": [
           "Ashkenazi, Elliott"
         ],
+        "itemtype": "Journal Article",
+        "date": 1991,
+        "URI": "jp_cite_00057",
         "locations": {
           "Bayersdorf, Germany": {
           },
@@ -4892,6 +5063,9 @@
         "author": [
           "Ashkenazi, Elliott"
         ],
+        "itemtype": "Book",
+        "date": 1988,
+        "URI": "jp_cite_00058",
         "locations": {
           "New Orleans, Louisiana": {
             "lat": 29.95465,
@@ -5100,6 +5274,9 @@
         "author": [
           "Kucinski, Meir"
         ],
+        "itemtype": "Book Section",
+        "date": 2003,
+        "URI": "jp_cite_00059",
         "locations": {
           "Vlotslavek, Poland": {
           },
@@ -5134,6 +5311,9 @@
         "author": [
           "Goldchain, Jose"
         ],
+        "itemtype": "Book Section",
+        "date": 2003,
+        "URI": "jp_cite_00060",
         "locations": {
           "Besarabia": {
             "lat": 47.28442,
@@ -5182,6 +5362,9 @@
         "author": [
           "Vital, Noyekh"
         ],
+        "itemtype": "Book Section",
+        "date": 2003,
+        "URI": "jp_cite_00061",
         "locations": {
           "Chile": {
             "lat": -30.0,
@@ -5214,6 +5397,9 @@
         "author": [
           "Berniker, Pinkhes"
         ],
+        "itemtype": "Book Section",
+        "date": 2003,
+        "URI": "jp_cite_00062",
         "locations": {
           "Cuba": {
             "lat": 22.0,
@@ -5246,6 +5432,9 @@
         "author": [
           "Gurwitz, Alexander Ziskind"
         ],
+        "itemtype": "Book Section",
+        "date": 2003,
+        "URI": "jp_cite_00063",
         "locations": {
           "San Antonio, Texas": {
             "lat": 29.42412,
@@ -5278,6 +5467,9 @@
         "author": [
           "Atherton, Lewis Eldon"
         ],
+        "itemtype": "Book",
+        "date": 1971,
+        "URI": "jp_cite_00064",
         "locations": {
           "Jackson, Missouri": {
             "lat": 39.09973,
@@ -5310,6 +5502,9 @@
         "author": [
           "Atherton, Lewis E."
         ],
+        "itemtype": "Journal Article",
+        "date": "4/1/1939",
+        "URI": "jp_cite_00065",
         "locations": {
           "Saint Louis, Missouri": {
             "lat": 38.62727,
@@ -5374,6 +5569,9 @@
         "author": [
           "Atherton, Lewis E."
         ],
+        "itemtype": "Journal Article",
+        "date": "4/1/1945",
+        "URI": "jp_cite_00066",
         "locations": {
           "Alabama": {
             "lat": 32.75041,
@@ -5454,6 +5652,9 @@
         "author": [
           "Avni, Haim"
         ],
+        "itemtype": "Book",
+        "date": 1991,
+        "URI": "jp_cite_00067",
         "locations": {
           "Argentina": {
             "lat": -34.0,
@@ -5534,6 +5735,9 @@
         "author": [
           "BAB"
         ],
+        "itemtype": "Newspaper Article",
+        "date": "10/20/1895",
+        "URI": "jp_cite_00068",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -5582,6 +5786,9 @@
         "author": [
           "BABCOCK, ROBERT H."
         ],
+        "itemtype": "Journal Article",
+        "date": "10/1/1986",
+        "URI": "jp_cite_00069",
         "locations": {
           "Saint John, New Brunswick": {
             "lat": 45.27271,
@@ -5680,6 +5887,9 @@
         "author": [
           "Bacon, George F"
         ],
+        "itemtype": "Book",
+        "date": 1891,
+        "URI": "jp_cite_00070",
         "locations": {
           "Portland, Maine": {
             "lat": 43.66147,
@@ -5729,6 +5939,9 @@
           "Bass, Ken",
           "Jospe, Raphael"
         ],
+        "itemtype": "Document",
+        "date": "3/5/1979",
+        "URI": "jp_cite_00071",
         "locations": {
           "Lengnau, Switzerland": {
             "lat": 47.52222,
@@ -5777,6 +5990,9 @@
         "author": [
           "Bade, Klaus J"
         ],
+        "itemtype": "Book",
+        "date": 2003,
+        "URI": "jp_cite_00072",
         "locations": {
           "Netherlands": {
             "lat": 52.25,
@@ -5857,6 +6073,9 @@
         "author": [
           "Bamberger, Ib Nathan"
         ],
+        "itemtype": "Book",
+        "date": 1983,
+        "URI": "jp_cite_00073",
         "locations": {
           "Aalborg, Denmark": {
             "lat": 57.048,
@@ -5939,6 +6158,9 @@
         "author": [
           "Band, Benjamin"
         ],
+        "itemtype": "Book",
+        "date": 1955,
+        "URI": "jp_cite_00074",
         "locations": {
           "Poland": {
             "lat": 52.0,
@@ -6003,6 +6225,9 @@
         "author": [
           "Banks, S.A."
         ],
+        "itemtype": "Journal Article",
+        "date": null,
+        "URI": "jp_cite_00075",
         "locations": {
           "Springfield, Massachusetts": {
             "lat": 42.10148,
@@ -6036,6 +6261,9 @@
           "Banks, Ann",
           "Federal Writers' Project"
         ],
+        "itemtype": "Book",
+        "date": 1980,
+        "URI": "jp_cite_00076",
         "locations": {
           "Oregon": {
             "lat": 44.00013,
@@ -6116,6 +6344,9 @@
         "author": [
           "Banulis, Mary"
         ],
+        "itemtype": "Newspaper Article",
+        "date": "3/19/1966",
+        "URI": "jp_cite_00077",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -6228,6 +6459,9 @@
         "author": [
           "Barbe, Lizzie Therese"
         ],
+        "itemtype": "Journal Article",
+        "date": "11/1/1961",
+        "URI": "jp_cite_00078",
         "locations": {
           "Worms, Germany": {
             "lat": 49.63278,
@@ -6292,6 +6526,9 @@
         "author": [
           "Barkai, Avraham"
         ],
+        "itemtype": "Book Section",
+        "date": 1981,
+        "URI": "jp_cite_00079",
         "locations": {
           "Poznan, Poland": {
             "lat": 52.40692,
@@ -6388,6 +6625,9 @@
         "author": [
           "Barkai, Avraham"
         ],
+        "itemtype": "Book",
+        "date": 1994,
+        "URI": "jp_cite_00080",
         "locations": {
           "Rhineland, Germany": {
             "lat": 50.00618,
@@ -6922,6 +7162,9 @@
           "Wright, Philip",
           "Yoffe, Oron"
         ],
+        "itemtype": "Book",
+        "date": 1997,
+        "URI": "jp_cite_00081",
         "locations": {
           "Spanish Town, Jamaica": {
             "lat": 17.99107,
@@ -6970,6 +7213,9 @@
         "author": [
           "Baron, Joseph"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00082",
         "locations": {
           "Kaukauna, Wisconsin": {
             "lat": 44.27804,
@@ -7066,6 +7312,9 @@
         "author": [
           "Kovenock, Paul"
         ],
+        "itemtype": "Document",
+        "date": "9/11/1958",
+        "URI": "jp_cite_00083",
         "locations": {
           "LaCrosse, Wisconsin": {
             "lat": 44.11607,
@@ -7098,6 +7347,9 @@
         "author": [
           "Baron, Salo W"
         ],
+        "itemtype": "Book",
+        "date": 1964,
+        "URI": "jp_cite_00084",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -7130,6 +7382,9 @@
         "author": [
           "Baron, Salo W"
         ],
+        "itemtype": "Journal Article",
+        "date": 1942,
+        "URI": "jp_cite_00085",
         "locations": {
         }
       },
@@ -7147,6 +7402,9 @@
         "author": [
           "Baron, Salo W"
         ],
+        "itemtype": "Book",
+        "date": 1971,
+        "URI": "jp_cite_00086",
         "locations": {
           "United States of America": {
             "lat": 39.76,
@@ -7195,6 +7453,9 @@
         "author": [
           "Baron, Salo W"
         ],
+        "itemtype": "Book",
+        "date": 1962,
+        "URI": "jp_cite_00087",
         "locations": {
         }
       },
@@ -7212,6 +7473,9 @@
         "author": [
           "Barṭal, Yiśraʼel"
         ],
+        "itemtype": "Book",
+        "date": 2005,
+        "URI": "jp_cite_00088",
         "locations": {
           "Eastern Europe": {
             "lat": 51.72703,
@@ -7244,6 +7508,9 @@
         "author": [
           "Barwin, Victor"
         ],
+        "itemtype": "Book",
+        "date": 1952,
+        "URI": "jp_cite_00089",
         "locations": {
           "Linkova, Czech Republic": {
           },
@@ -7294,6 +7561,9 @@
         "author": [
           "Barr, Terry"
         ],
+        "itemtype": "Journal Article",
+        "date": 2000,
+        "URI": "jp_cite_00090",
         "locations": {
           "Hungary": {
             "lat": 47.0,
@@ -7374,6 +7644,9 @@
         "author": [
           "Barzilai, Dena"
         ],
+        "itemtype": "Journal Article",
+        "date": "4/1/1975",
+        "URI": "jp_cite_00091",
         "locations": {
           "Rhodes, Greece": {
             "lat": 36.44288,
@@ -7440,6 +7713,9 @@
         "author": [
           "Goodman, L."
         ],
+        "itemtype": "Journal Article",
+        "date": "4/1/1975",
+        "URI": "jp_cite_00092",
         "locations": {
           "South Africa": {
             "lat": -29.0,
@@ -7472,6 +7748,9 @@
         "author": [
           "Bauman, Mark K"
         ],
+        "itemtype": "Book",
+        "date": 2006,
+        "URI": "jp_cite_00093",
         "locations": {
           "Texarkana, Texas": {
             "lat": 33.42512,
@@ -7520,6 +7799,9 @@
         "author": [
           "Bauman, Mark K"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00094",
         "locations": {
           "Knyshin, Poland": {
             "lat": 53.31406,
@@ -7648,6 +7930,9 @@
         "author": [
           "Bauman, Mark K"
         ],
+        "itemtype": "Book Section",
+        "date": 2006,
+        "URI": "jp_cite_00095",
         "locations": {
           "Odessa, Ukraine": {
             "lat": 46.47747,
@@ -7697,6 +7982,9 @@
           "Becker, Sandra",
           "Pearson, Ralph"
         ],
+        "itemtype": "Journal Article",
+        "date": "11/1/1979",
+        "URI": "jp_cite_00096",
         "locations": {
           "Hartford, Connecticut": {
             "lat": 41.76371,
@@ -7729,6 +8017,9 @@
         "author": [
           "Behar, Ruth"
         ],
+        "itemtype": "Book",
+        "date": 2007,
+        "URI": "jp_cite_00097",
         "locations": {
           "Turkey": {
             "lat": 39.0,
@@ -7793,6 +8084,9 @@
         "author": [
           "Beik, Mildred A"
         ],
+        "itemtype": "Book",
+        "date": 1996,
+        "URI": "jp_cite_00098",
         "locations": {
           "Hungary": {
             "lat": 47.0,
@@ -7857,6 +8151,9 @@
         "author": [
           "Bein, Alex"
         ],
+        "itemtype": "Book",
+        "date": 1990,
+        "URI": "jp_cite_00099",
         "locations": {
           "Prussia": {
             "lat": 53.5,
@@ -7889,6 +8186,9 @@
         "author": [
           "Beitner, Zvi"
         ],
+        "itemtype": "Thesis",
+        "date": 1958,
+        "URI": "jp_cite_00100",
         "locations": {
           "Montivideo, Uruguay": {
           }
@@ -7908,6 +8208,9 @@
         "author": [
 
         ],
+        "itemtype": "Book",
+        "date": 1966,
+        "URI": "jp_cite_00101",
         "locations": {
           "Lithuania": {
             "lat": 55.41667,
@@ -8068,6 +8371,9 @@
         "author": [
           "Beller, Jacob"
         ],
+        "itemtype": "Journal Article",
+        "date": "8/6/1962",
+        "URI": "jp_cite_00102",
         "locations": {
           "Chile": {
             "lat": -30.0,
@@ -8100,6 +8406,9 @@
         "author": [
           "Case Western University"
         ],
+        "itemtype": "Webpage",
+        "date": null,
+        "URI": "jp_cite_00103",
         "locations": {
           "Cleveland, Ohio": {
             "lat": 41.4995,
@@ -8132,6 +8441,9 @@
         "author": [
           "Benchimol, Samuel"
         ],
+        "itemtype": "Book",
+        "date": 1998,
+        "URI": "jp_cite_00104",
         "locations": {
           "Morocco": {
             "lat": 32.0,
@@ -8422,6 +8734,9 @@
         "author": [
           "Benjamin, Alan Fredric"
         ],
+        "itemtype": "Book",
+        "date": 2002,
+        "URI": "jp_cite_00105",
         "locations": {
           "Curacao": {
             "lat": 12.16667,
@@ -8486,6 +8801,9 @@
         "author": [
           "ben Sholem, Borukh"
         ],
+        "itemtype": "Document",
+        "date": 1952,
+        "URI": "jp_cite_00106",
         "locations": {
           "Plyskiv, Ukraine": {
             "lat": 49.37128,
@@ -8534,6 +8852,9 @@
         "author": [
           "Ben-Yoseph, Raphael"
         ],
+        "itemtype": "Journal Article",
+        "date": "8/1/2007",
+        "URI": "jp_cite_00107",
         "locations": {
           "Ukraine": {
             "lat": 49.0,
@@ -8616,6 +8937,9 @@
         "author": [
           "Benson, John"
         ],
+        "itemtype": "Journal Article",
+        "date": "5/1/1985",
+        "URI": "jp_cite_00108",
         "locations": {
           "Montreal, Quebec": {
             "lat": 45.50884,
@@ -8664,6 +8988,9 @@
         "author": [
           "Benton, Katherine A"
         ],
+        "itemtype": "Thesis",
+        "date": 1997,
+        "URI": "jp_cite_00109",
         "locations": {
           "Poznan, Poland": {
             "lat": 52.40692,
@@ -8776,6 +9103,9 @@
         "author": [
           "Arkin, Antony"
         ],
+        "itemtype": "Book Section",
+        "date": 1984,
+        "URI": "jp_cite_00110",
         "locations": {
           "Lithuania": {
             "lat": 55.41667,
@@ -8824,6 +9154,9 @@
         "author": [
           "Bentwich, Norman"
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/1942",
+        "URI": "jp_cite_00111",
         "locations": {
           "South Africa": {
             "lat": -29.0,
@@ -8857,6 +9190,9 @@
           "Bentwich, Margery.",
           "Bentwich, Norman,"
         ],
+        "itemtype": "Book",
+        "date": 1940,
+        "URI": "jp_cite_00112",
         "locations": {
           "Peiser, Poland": {
           },
@@ -8939,6 +9275,9 @@
         "author": [
           "Benzely, Mrs. Marion"
         ],
+        "itemtype": "Document",
+        "date": 1982,
+        "URI": "jp_cite_00113",
         "locations": {
           "Mulligan Township, Minnesota": {
             "lat": 44.15191,
@@ -8987,6 +9326,9 @@
         "author": [
           "Berg, Louis"
         ],
+        "itemtype": "Journal Article",
+        "date": "7/1/1965",
+        "URI": "jp_cite_00114",
         "locations": {
           "San Francisco, California": {
             "lat": 37.77493,
@@ -9169,6 +9511,9 @@
         "author": [
           "Julette Moore"
         ],
+        "itemtype": "Document",
+        "date": 1983,
+        "URI": "jp_cite_00115",
         "locations": {
           "Heron Lake, Minnesota": {
             "lat": 43.79496,
@@ -9201,6 +9546,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": 1976,
+        "URI": "jp_cite_00116",
         "locations": {
           "Amador, Minnesota": {
             "lat": 45.51172,
@@ -9281,6 +9629,9 @@
         "author": [
           "Sprigge, Sylvia."
         ],
+        "itemtype": "Book",
+        "date": 1960,
+        "URI": "jp_cite_00117",
         "locations": {
           "Zosle, Lithuania": {
             "lat": 54.86667,
@@ -9345,6 +9696,9 @@
         "author": [
           "Bering, Dietz,"
         ],
+        "itemtype": "Book",
+        "date": 1992,
+        "URI": "jp_cite_00118",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -9377,6 +9731,9 @@
         "author": [
           "Berlin, Phillip"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00119",
         "locations": {
           "Bauska, Latvia": {
             "lat": 56.4075,
@@ -9521,6 +9878,9 @@
         "author": [
           "Berman, Hannah,"
         ],
+        "itemtype": "Book",
+        "date": 1927,
+        "URI": "jp_cite_00120",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -9554,6 +9914,9 @@
           "Berman, Hyman,",
           "Schloff, Linda Mack."
         ],
+        "itemtype": "Book",
+        "date": 2002,
+        "URI": "jp_cite_00121",
         "locations": {
           "Minnesota": {
             "lat": 46.25024,
@@ -9586,6 +9949,9 @@
         "author": [
           "Berman, Myron,"
         ],
+        "itemtype": "Book",
+        "date": 1979,
+        "URI": "jp_cite_00122",
         "locations": {
           "Richmond, Virginia": {
             "lat": 37.55376,
@@ -9618,6 +9984,9 @@
         "author": [
           "Berman, Elizabeth Kessin"
         ],
+        "itemtype": "Journal Article",
+        "date": 1989,
+        "URI": "jp_cite_00123",
         "locations": {
           "Baltimore, Maryland": {
             "lat": 39.29038,
@@ -9794,6 +10163,9 @@
         "author": [
           "Berman, Hyman"
         ],
+        "itemtype": "Book",
+        "date": 1981,
+        "URI": "jp_cite_00124",
         "locations": {
           "Saint Paul, Minnesota": {
             "lat": 44.94441,
@@ -9906,6 +10278,9 @@
         "author": [
           "Berman, Myron"
         ],
+        "itemtype": "Book Section",
+        "date": 1984,
+        "URI": "jp_cite_00125",
         "locations": {
           "Galicia": {
             "lat": 49.5,
@@ -9970,6 +10345,9 @@
         "author": [
           "Schmier, Louis"
         ],
+        "itemtype": "Book Section",
+        "date": 1984,
+        "URI": "jp_cite_00126",
         "locations": {
           "Valdosta, Georgia": {
             "lat": 30.83334,
@@ -10034,6 +10412,9 @@
         "author": [
           "Bermant, Chaim"
         ],
+        "itemtype": "Journal Article",
+        "date": null,
+        "URI": "jp_cite_00127",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -10132,6 +10513,9 @@
           "Urofsky, Melvin I.",
           "Bern, Ronald"
         ],
+        "itemtype": "Book Section",
+        "date": 1979,
+        "URI": "jp_cite_00128",
         "locations": {
           "Anderson, South Carolina": {
             "lat": 34.51909,
@@ -10198,6 +10582,9 @@
         "author": [
           "Berndt, Colleen E. H."
         ],
+        "itemtype": "Journal Article",
+        "date": "11/1/2007",
+        "URI": "jp_cite_00129",
         "locations": {
           "United States": {
             "lat": 39.76,
@@ -10262,6 +10649,9 @@
         "author": [
           "Bernheim, Isaac Wolfe,"
         ],
+        "itemtype": "Book",
+        "date": 1910,
+        "URI": "jp_cite_00130",
         "locations": {
           "Tennessee": {
             "lat": 35.75035,
@@ -10310,6 +10700,9 @@
         "author": [
           "Bernheim, Isaac W."
         ],
+        "itemtype": "Book",
+        "date": 1929,
+        "URI": "jp_cite_00131",
         "locations": {
           "Schmieheim, Germany": {
             "lat": 48.27999,
@@ -10406,6 +10799,9 @@
         "author": [
           "Bernheim, Isaac Wolfe,"
         ],
+        "itemtype": "Book",
+        "date": 1912,
+        "URI": "jp_cite_00132",
         "locations": {
           "Baden, Germany": {
             "lat": 48.7606,
@@ -10583,6 +10979,9 @@
           "Berniker, Pinkhes",
           "Astro, Alan"
         ],
+        "itemtype": "Journal Article",
+        "date": 2001,
+        "URI": "jp_cite_00133",
         "locations": {
           "Eyshishok, Lithuania": {
           },
@@ -10617,6 +11016,9 @@
         "author": [
           "Berniker, Pinkhes"
         ],
+        "itemtype": "Book Section",
+        "date": 2003,
+        "URI": "jp_cite_00134",
         "locations": {
           "Eyshishok, Lithuania": {
           },
@@ -10651,6 +11053,9 @@
         "author": [
           "Bernstein, Abe"
         ],
+        "itemtype": "Book Section",
+        "date": 2001,
+        "URI": "jp_cite_00135",
         "locations": {
           "Austria": {
             "lat": 47.33333,
@@ -10811,6 +11216,9 @@
         "author": [
           "Bernstein Ciacci, Gail"
         ],
+        "itemtype": "Book Section",
+        "date": 2001,
+        "URI": "jp_cite_00136",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -10875,6 +11283,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00137",
         "locations": {
           "Baltimore, Maryland": {
             "lat": 39.29038,
@@ -10907,6 +11318,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": "6/1/1982",
+        "URI": "jp_cite_00138",
         "locations": {
           "Stillwater, Minnesota": {
             "lat": 45.05636,
@@ -10940,6 +11354,9 @@
           "Feig, Konnilyn G.",
           "Jewish Federation of Southern Maine"
         ],
+        "itemtype": "Book",
+        "date": 1977,
+        "URI": "jp_cite_00139",
         "locations": {
           "Kaunas, Lithuania": {
             "lat": 54.9,
@@ -11004,6 +11421,9 @@
         "author": [
           "Bernstein, Saul"
         ],
+        "itemtype": "Document",
+        "date": "2/6/1899",
+        "URI": "jp_cite_00140",
         "locations": {
           "Poswol, Lithuania": {
             "lat": 56.05944,
@@ -11068,6 +11488,9 @@
         "author": [
           "Berry, Hannah Shwayder"
         ],
+        "itemtype": "Journal Article",
+        "date": "4/1/1973",
+        "URI": "jp_cite_00141",
         "locations": {
           "Suwalki, Poland": {
             "lat": 54.11175,
@@ -11164,6 +11587,9 @@
         "author": [
           "Berry, Hannah Shwayder."
         ],
+        "itemtype": "Book",
+        "date": 1977,
+        "URI": "jp_cite_00142",
         "locations": {
           "Suwalki, Poland": {
             "lat": 54.11175,
@@ -11276,6 +11702,9 @@
         "author": [
           "Feldman, Jack"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00143",
         "locations": {
           "Poland": {
             "lat": 52.0,
@@ -11324,6 +11753,9 @@
         "author": [
           "Papernick, Bernie"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00144",
         "locations": {
           "Ukraine": {
             "lat": 49.0,
@@ -11372,6 +11804,9 @@
         "author": [
           "Besmann, Wendy Lowe,"
         ],
+        "itemtype": "Book",
+        "date": 2001,
+        "URI": "jp_cite_00145",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -11470,6 +11905,9 @@
         "author": [
           "Bewrent, Irwin"
         ],
+        "itemtype": "Journal Article",
+        "date": "12/14/1984",
+        "URI": "jp_cite_00146",
         "locations": {
           "Lithuania": {
             "lat": 55.41667,
@@ -11550,6 +11988,9 @@
         "author": [
           "Betcherman, Lita-Rose"
         ],
+        "itemtype": "Journal Article",
+        "date": 1992,
+        "URI": "jp_cite_00147",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -11598,6 +12039,9 @@
         "author": [
           "Bibo, Nathan"
         ],
+        "itemtype": "Newspaper Article",
+        "date": null,
+        "URI": "jp_cite_00148",
         "locations": {
           "Borgentreich, Germany": {
             "lat": 51.56917,
@@ -11678,6 +12122,9 @@
         "author": [
           "Biderman, Rose G."
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/1996",
+        "URI": "jp_cite_00149",
         "locations": {
           "Obernbreit, Germany": {
             "lat": 49.65863,
@@ -11742,6 +12189,9 @@
         "author": [
           "Biderman, Rose G"
         ],
+        "itemtype": "Book",
+        "date": 2001,
+        "URI": "jp_cite_00150",
         "locations": {
           "Obernbreit, Germany": {
             "lat": 49.65863,
@@ -11806,6 +12256,9 @@
         "author": [
           "Birnholz, Richard J."
         ],
+        "itemtype": "Document",
+        "date": 1981,
+        "URI": "jp_cite_00151",
         "locations": {
           "Sartatia, Mississippi": {
           },
@@ -11857,6 +12310,9 @@
           "Biskupski, Miecyslaw",
           "Polonsky, Antony"
         ],
+        "itemtype": "Journal Article",
+        "date": 2007,
+        "URI": "jp_cite_00152",
         "locations": {
           "Poland": {
             "lat": 52.0,
@@ -11889,6 +12345,9 @@
         "author": [
           "Morawska, Ewa"
         ],
+        "itemtype": "Journal Article",
+        "date": 2007,
+        "URI": "jp_cite_00153",
         "locations": {
           "Poland": {
             "lat": 52.0,
@@ -11953,6 +12412,9 @@
         "author": [
           "Blau, Joel"
         ],
+        "itemtype": "Journal Article",
+        "date": null,
+        "URI": "jp_cite_00154",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -12017,6 +12479,9 @@
         "author": [
           "Patchen, Susan Buerger"
         ],
+        "itemtype": "Journal Article",
+        "date": "12/25/1959",
+        "URI": "jp_cite_00155",
         "locations": {
           "Poland": {
             "lat": 52.0,
@@ -12065,6 +12530,9 @@
         "author": [
           "Bloch, Anny"
         ],
+        "itemtype": "Journal Article",
+        "date": 1999,
+        "URI": "jp_cite_00156",
         "locations": {
           "Alsace, France": {
             "lat": 48.33333,
@@ -12129,6 +12597,9 @@
         "author": [
           "Israel, Jonathan"
         ],
+        "itemtype": "Book Section",
+        "date": 2002,
+        "URI": "jp_cite_00157",
         "locations": {
           "Netherlands": {
             "lat": 52.25,
@@ -12210,6 +12681,9 @@
           "Fuks-Mansfeld, R. G.",
           "Israel, Jonathan"
         ],
+        "itemtype": "Book Section",
+        "date": 2002,
+        "URI": "jp_cite_00158",
         "locations": {
           "Netherlands": {
             "lat": 52.25,
@@ -12243,6 +12717,9 @@
           "Fuks-Mansfeld, R. G.",
           "Israel, Jonathan"
         ],
+        "itemtype": "Book Section",
+        "date": 2002,
+        "URI": "jp_cite_00159",
         "locations": {
           "Netherlands": {
             "lat": 52.25,
@@ -12275,6 +12752,9 @@
         "author": [
           "Bloom, Herbert Ivan,"
         ],
+        "itemtype": "Book",
+        "date": 1969,
+        "URI": "jp_cite_00160",
         "locations": {
           "Netherlands": {
             "lat": 52.25,
@@ -12339,6 +12819,9 @@
         "author": [
           "Blumenthal, Abraham"
         ],
+        "itemtype": "Book",
+        "date": 1950,
+        "URI": "jp_cite_00161",
         "locations": {
           "Teschenmoschel, Germany": {
             "lat": 49.6333,
@@ -12452,6 +12935,9 @@
           "Blumenfeld, David,",
           "Hertz, Frederick,"
         ],
+        "itemtype": "Book",
+        "date": 2009,
+        "URI": "jp_cite_00162",
         "locations": {
           "Latvia": {
             "lat": 57.0,
@@ -12564,6 +13050,9 @@
         "author": [
           "Bogen, Boris David,"
         ],
+        "itemtype": "Book",
+        "date": 1917,
+        "URI": "jp_cite_00163",
         "locations": {
           "Europe": {
             "lat": 51.72703,
@@ -12612,6 +13101,9 @@
         "author": [
           "Böhm, Günter,"
         ],
+        "itemtype": "Book",
+        "date": 1985,
+        "URI": "jp_cite_00164",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -12934,6 +13426,9 @@
         "author": [
           "Bolkosky, Sidney M."
         ],
+        "itemtype": "Book",
+        "date": 1991,
+        "URI": "jp_cite_00165",
         "locations": {
           "Lithuania": {
             "lat": 55.41667,
@@ -12982,6 +13477,9 @@
         "author": [
           "Borochov, Ber"
         ],
+        "itemtype": "Book",
+        "date": null,
+        "URI": "jp_cite_00166",
         "locations": {
           "Poltava, Ukraine": {
             "lat": 49.59373,
@@ -13031,6 +13529,9 @@
           "Federal Writers' Project.",
           "Botkin, Benjamin Albert,"
         ],
+        "itemtype": "Book",
+        "date": 1945,
+        "URI": "jp_cite_00167",
         "locations": {
           "United States of America": {
             "lat": 39.76,
@@ -13063,6 +13564,9 @@
         "author": [
           "Boum, Aomar"
         ],
+        "itemtype": "Journal Article",
+        "date": 2012,
+        "URI": "jp_cite_00168",
         "locations": {
           "Souss-Massa-Draa, Morocco": {
             "lat": 30.66667,
@@ -13111,6 +13615,9 @@
         "author": [
           "Boum, Aomar"
         ],
+        "itemtype": "Journal Article",
+        "date": null,
+        "URI": "jp_cite_00169",
         "locations": {
           "Souss-Massa-Draa, Morocco": {
             "lat": 30.66667,
@@ -13159,6 +13666,9 @@
         "author": [
           "Bourke, Joanna"
         ],
+        "itemtype": "Book",
+        "date": 1993,
+        "URI": "jp_cite_00170",
         "locations": {
           "Ireland": {
             "lat": 53.0,
@@ -13191,6 +13701,9 @@
         "author": [
           "Boxerman, Burton Alan"
         ],
+        "itemtype": "Journal Article",
+        "date": "12/1/1973",
+        "URI": "jp_cite_00171",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -13303,6 +13816,9 @@
         "author": [
           "Braber, Ben"
         ],
+        "itemtype": "Book",
+        "date": 2007,
+        "URI": "jp_cite_00172",
         "locations": {
           "Glasgow, Scotland": {
             "lat": 55.86515,
@@ -13368,6 +13884,9 @@
           "Bradbury, Rachael Bowman",
           "Baskin, William P"
         ],
+        "itemtype": "Book",
+        "date": 2010,
+        "URI": "jp_cite_00173",
         "locations": {
           "Lithuania": {
             "lat": 55.41667,
@@ -13417,6 +13936,9 @@
           "Payne, Roslyn Braeman",
           "McLaughlin, Carol"
         ],
+        "itemtype": "Book",
+        "date": 2003,
+        "URI": "jp_cite_00174",
         "locations": {
           "Moldova": {
             "lat": 47.25,
@@ -13481,6 +14003,9 @@
         "author": [
           "Braudel, Fernand"
         ],
+        "itemtype": "Book",
+        "date": 1973,
+        "URI": "jp_cite_00175",
         "locations": {
           "London, United Kingdom": {
             "lat": 51.50853,
@@ -13513,6 +14038,9 @@
         "author": [
           "Braudel, Fernand"
         ],
+        "itemtype": "Book",
+        "date": 1982,
+        "URI": "jp_cite_00176",
         "locations": {
           "France": {
             "lat": 46.0,
@@ -13641,6 +14169,9 @@
         "author": [
           "Brauer, Josh"
         ],
+        "itemtype": "Journal Article",
+        "date": "5/1/1985",
+        "URI": "jp_cite_00177",
         "locations": {
           "Lithuania": {
             "lat": 55.41667,
@@ -13705,6 +14236,9 @@
         "author": [
           "Breck, Allen duPont"
         ],
+        "itemtype": "Book",
+        "date": 1960,
+        "URI": "jp_cite_00178",
         "locations": {
           "Suwalki, Poland": {
             "lat": 54.11175,
@@ -13881,6 +14415,9 @@
         "author": [
           "Brenner, Anita"
         ],
+        "itemtype": "Journal Article",
+        "date": "9/11/1931",
+        "URI": "jp_cite_00179",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -14042,6 +14579,9 @@
           "Radzinski, Michel (Mikhl)",
           "Kants, Shimen"
         ],
+        "itemtype": "Book",
+        "date": 1993,
+        "URI": "jp_cite_00180",
         "locations": {
           "Poland": {
             "lat": 52.0,
@@ -14090,6 +14630,9 @@
         "author": [
           "Brener, David A"
         ],
+        "itemtype": "Book",
+        "date": 1979,
+        "URI": "jp_cite_00181",
         "locations": {
           "Regensburg, Germany": {
             "lat": 49.03451,
@@ -14252,6 +14795,9 @@
         "author": [
           "Brener, David A"
         ],
+        "itemtype": "Book",
+        "date": 1976,
+        "URI": "jp_cite_00182",
         "locations": {
           "Philadelphia, Pennsylvania": {
             "lat": 39.95234,
@@ -14335,6 +14881,9 @@
           "Breuer, Mordechai",
           "Graetz, Michael"
         ],
+        "itemtype": "Book",
+        "date": 1996,
+        "URI": "jp_cite_00183",
         "locations": {
           "Hesse-Kassel, Germany": {
             "lat": 51.31667,
@@ -14447,6 +14996,9 @@
         "author": [
           "Bressler, David Maurice"
         ],
+        "itemtype": "Book",
+        "date": 1910,
+        "URI": "jp_cite_00184",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -14512,6 +15064,9 @@
           "Brewer, John",
           "Porter, Roy"
         ],
+        "itemtype": "Book",
+        "date": 1993,
+        "URI": "jp_cite_00185",
         "locations": {
           "England, United Kingdom": {
             "lat": 51.50853,
@@ -14560,6 +15115,9 @@
         "author": [
           "Brinkmann, Tobias"
         ],
+        "itemtype": "Book",
+        "date": null,
+        "URI": "jp_cite_00186",
         "locations": {
           "Chicago, Illinois": {
             "lat": 41.85003,
@@ -14930,6 +15488,9 @@
         "author": [
           "BRINKMANN, TOBIAS"
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/2007",
+        "URI": "jp_cite_00187",
         "locations": {
           "Franconia, Germany": {
             "lat": 49.83333,
@@ -15010,6 +15571,9 @@
         "author": [
           "Briscoe, Robert"
         ],
+        "itemtype": "Book",
+        "date": 1958,
+        "URI": "jp_cite_00188",
         "locations": {
           "Kaunas, Lithuania": {
             "lat": 54.9,
@@ -15058,6 +15622,9 @@
         "author": [
           "Brooks, Juanita"
         ],
+        "itemtype": "Book",
+        "date": 1973,
+        "URI": "jp_cite_00189",
         "locations": {
           "Gunnison, Utah": {
             "lat": 39.15524,
@@ -15186,6 +15753,9 @@
         "author": [
           "Brown, Canter"
         ],
+        "itemtype": "Book Section",
+        "date": 2006,
+        "URI": "jp_cite_00190",
         "locations": {
           "Prussian Poland": {
           },
@@ -15236,6 +15806,9 @@
         "author": [
           "Brown, Michael"
         ],
+        "itemtype": "Book",
+        "date": 1987,
+        "URI": "jp_cite_00191",
         "locations": {
           "Eastern Europe": {
             "lat": 51.72703,
@@ -15300,6 +15873,9 @@
         "author": [
           "Brown, Michael"
         ],
+        "itemtype": "Book Section",
+        "date": 1992,
+        "URI": "jp_cite_00192",
         "locations": {
           "Montreal, Quebec": {
             "lat": 45.50884,
@@ -15348,6 +15924,9 @@
         "author": [
           "Brown, Richard H."
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/1968",
+        "URI": "jp_cite_00193",
         "locations": {
           "Venice, New York": {
             "lat": 42.71912,
@@ -15444,6 +16023,9 @@
         "author": [
           "Brownstein, Rachel M"
         ],
+        "itemtype": "Book",
+        "date": 1993,
+        "URI": "jp_cite_00194",
         "locations": {
           "Munf, Aargau, Switzerland": {
           },
@@ -15574,6 +16156,9 @@
         "author": [
           "Bruml, Moses"
         ],
+        "itemtype": "Journal Article",
+        "date": "10/1/1984",
+        "URI": "jp_cite_00195",
         "locations": {
           "Zielona Gora, Poland": {
             "lat": 51.93548,
@@ -15718,6 +16303,9 @@
         "author": [
           "Buder, Stanley"
         ],
+        "itemtype": "Book",
+        "date": 2009,
+        "URI": "jp_cite_00196",
         "locations": {
           "United States of America": {
             "lat": 39.76,
@@ -15766,6 +16354,9 @@
         "author": [
           "Bulfin, William"
         ],
+        "itemtype": "Book",
+        "date": 1925,
+        "URI": "jp_cite_00197",
         "locations": {
           "Ireland": {
             "lat": 53.0,
@@ -15814,6 +16405,9 @@
         "author": [
           "Bunce, Frank H"
         ],
+        "itemtype": "Journal Article",
+        "date": "10/1/1973",
+        "URI": "jp_cite_00198",
         "locations": {
           "Waldkirch, Germany": {
             "lat": 48.09585,
@@ -15894,6 +16488,9 @@
         "author": [
           "Burstin, Barbara S"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00199",
         "locations": {
           "Bavaria": {
             "lat": 49.0,
@@ -16056,6 +16653,9 @@
         "author": [
           "Bushman, Richard L"
         ],
+        "itemtype": "Book",
+        "date": 1992,
+        "URI": "jp_cite_00200",
         "locations": {
           "United States of America": {
             "lat": 39.76,
@@ -16089,6 +16689,9 @@
           "Buttnick, Meta",
           "Eulenberg, Julia Niebuhr"
         ],
+        "itemtype": "Journal Article",
+        "date": "Summer 2002",
+        "URI": "jp_cite_00201",
         "locations": {
           "Balti, Moldova": {
             "lat": 47.76314,
@@ -16187,6 +16790,9 @@
         "author": [
           "Spiegel, Marcus M"
         ],
+        "itemtype": "Book",
+        "date": 1985,
+        "URI": "jp_cite_00202",
         "locations": {
           "Abenheim, Germany": {
             "lat": 49.67612,
@@ -16283,6 +16889,9 @@
         "author": [
           "Adler, Joan"
         ],
+        "itemtype": "Journal Article",
+        "date": "7/1/1993",
+        "URI": "jp_cite_00203",
         "locations": {
           "Otterberg, Germany": {
             "lat": 49.50301,
@@ -16350,6 +16959,9 @@
           "Bernheimer, Charles Seligman",
           "Harvard University"
         ],
+        "itemtype": "Book",
+        "date": 1905,
+        "URI": "jp_cite_00204",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -16414,6 +17026,9 @@
         "author": [
           "Cahnman, Werner J"
         ],
+        "itemtype": "Journal Article",
+        "date": 1974,
+        "URI": "jp_cite_00205",
         "locations": {
           "Franconia, Germany": {
             "lat": 49.83333,
@@ -16494,6 +17109,9 @@
         "author": [
           "Caiserman, H.M."
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00206",
         "locations": {
           "Poland": {
             "lat": 52.0,
@@ -16606,6 +17224,9 @@
         "author": [
           "Cantor, Judith Levin"
         ],
+        "itemtype": "Book",
+        "date": 2001,
+        "URI": "jp_cite_00207",
         "locations": {
           "Poland": {
             "lat": 52.0,
@@ -16830,6 +17451,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00208",
         "locations": {
           "Kaunas, Lithuania": {
             "lat": 54.9,
@@ -16910,6 +17534,9 @@
         "author": [
           "Caplovitz, David"
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/1965",
+        "URI": "jp_cite_00209",
         "locations": {
           "New York, New York": {
             "lat": 40.71427,
@@ -16944,6 +17571,9 @@
           "Tyrrell, Mary O'Brien",
           "Memoirs, Inc. (Saint Paul, Minn.)"
         ],
+        "itemtype": "Book",
+        "date": 2008,
+        "URI": "jp_cite_00210",
         "locations": {
           "Kapole, Belarus": {
           },
@@ -17010,6 +17640,9 @@
         "author": [
           "Carciente, Jacob"
         ],
+        "itemtype": "Book",
+        "date": 1991,
+        "URI": "jp_cite_00211",
         "locations": {
           "Coro, Venezuela": {
             "lat": 11.4045,
@@ -17090,6 +17723,9 @@
         "author": [
           "Carlebach, Julius"
         ],
+        "itemtype": "Book",
+        "date": 1962,
+        "URI": "jp_cite_00212",
         "locations": {
           "Nairobi, Kenya": {
             "lat": -1.28333,
@@ -17122,6 +17758,9 @@
         "author": [
           "Carlsson, Carl Henrik"
         ],
+        "itemtype": "Book",
+        "date": 2004,
+        "URI": "jp_cite_00213",
         "locations": {
           "Sweden": {
             "lat": 62.0,
@@ -17266,6 +17905,9 @@
         "author": [
           "Caron, Vicki"
         ],
+        "itemtype": "Book",
+        "date": 1988,
+        "URI": "jp_cite_00214",
         "locations": {
           "Alsace, France": {
             "lat": 48.33333,
@@ -17362,6 +18004,9 @@
         "author": [
           "Carr, John Foster"
         ],
+        "itemtype": "Book",
+        "date": 1916,
+        "URI": "jp_cite_00215",
         "locations": {
           "United States of America": {
             "lat": 39.76,
@@ -17394,6 +18039,9 @@
         "author": [
           "Carver, Nancy Ellen"
         ],
+        "itemtype": "Book",
+        "date": 2002,
+        "URI": "jp_cite_00216",
         "locations": {
           "Krakow, Poland": {
             "lat": 50.06143,
@@ -17490,6 +18138,9 @@
         "author": [
           "Casper, I.A."
         ],
+        "itemtype": "Document",
+        "date": "11/14/1956",
+        "URI": "jp_cite_00217",
         "locations": {
           "Middletown, Ohio": {
             "lat": 39.51506,
@@ -17698,6 +18349,9 @@
         "author": [
           "Cauthen, John K"
         ],
+        "itemtype": "Book",
+        "date": 1978,
+        "URI": "jp_cite_00218",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -17810,6 +18464,9 @@
         "author": [
           "Tenenbaum"
         ],
+        "itemtype": "Book Section",
+        "date": 1993,
+        "URI": "jp_cite_00219",
         "locations": {
           "United States of America": {
             "lat": 39.76,
@@ -17858,6 +18515,9 @@
         "author": [
 
         ],
+        "itemtype": "Book",
+        "date": 2006,
+        "URI": "jp_cite_00220",
         "locations": {
           "Charleston, South Carolina": {
             "lat": 32.77657,
@@ -17938,6 +18598,9 @@
         "author": [
           "Chan, Sucheng"
         ],
+        "itemtype": "Book Section",
+        "date": 2000,
+        "URI": "jp_cite_00221",
         "locations": {
           "California": {
             "lat": 30.0,
@@ -17970,6 +18633,9 @@
         "author": [
           "Chandler, Alfred D"
         ],
+        "itemtype": "Book",
+        "date": 1977,
+        "URI": "jp_cite_00222",
         "locations": {
           "New York, New York": {
             "lat": 40.71427,
@@ -18066,6 +18732,9 @@
         "author": [
           "Chatelain, Abel"
         ],
+        "itemtype": "Journal Article",
+        "date": 1971,
+        "URI": "jp_cite_00223",
         "locations": {
           "France": {
             "lat": 46.0,
@@ -18098,6 +18767,9 @@
         "author": [
           "Cherry, Robert"
         ],
+        "itemtype": "Journal Article",
+        "date": 1990,
+        "URI": "jp_cite_00224",
         "locations": {
           "United States of America": {
             "lat": 39.76,
@@ -18162,6 +18834,9 @@
         "author": [
           "Chesnut, Charlenne"
         ],
+        "itemtype": "Journal Article",
+        "date": "Winter/Spring 2000///Winter/Spring2000",
+        "URI": "jp_cite_00225",
         "locations": {
           "Poland": {
             "lat": 52.0,
@@ -18242,6 +18917,9 @@
         "author": [
           "Chanin, Abraham S."
         ],
+        "itemtype": "Journal Article",
+        "date": "Winter/Spring 2000///Winter/Spring2000",
+        "URI": "jp_cite_00226",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -18290,6 +18968,9 @@
         "author": [
           "Reizbaum, Marylin"
         ],
+        "itemtype": "Book Section",
+        "date": 1996,
+        "URI": "jp_cite_00227",
         "locations": {
           "Dublin, Ireland": {
             "lat": 53.33306,
@@ -18338,6 +19019,9 @@
         "author": [
           "Cheyt, Stanley F"
         ],
+        "itemtype": "Journal Article",
+        "date": "7/1/1963",
+        "URI": "jp_cite_00228",
         "locations": {
           "New York": {
             "lat": 40.71427,
@@ -18402,6 +19086,9 @@
         "author": [
           "Chiat, Marilyn"
         ],
+        "itemtype": "Document",
+        "date": "4/29/1989",
+        "URI": "jp_cite_00229",
         "locations": {
           "Amador, Minnesota": {
             "lat": 45.51172,
@@ -18451,6 +19138,9 @@
           "Bourgin, Frank",
           "Chiat, Marilyn"
         ],
+        "itemtype": "Document",
+        "date": "4/17/1984",
+        "URI": "jp_cite_00230",
         "locations": {
           "Mol?tai, Lithuania": {
           },
@@ -18517,6 +19207,9 @@
         "author": [
           "Chiat, Marilyn"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00231",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -18693,6 +19386,9 @@
         "author": [
           "Chiel, Arthur A"
         ],
+        "itemtype": "Book",
+        "date": 1955,
+        "URI": "jp_cite_00232",
         "locations": {
           "Winnipeg, Manitoba": {
             "lat": 49.8844,
@@ -18726,6 +19422,9 @@
           "Chiel, Arthur A",
           "Historical and Scientific Society of Manitoba"
         ],
+        "itemtype": "Book",
+        "date": 1961,
+        "URI": "jp_cite_00233",
         "locations": {
           "Winnipeg, Manitoba": {
             "lat": 49.8844,
@@ -18792,6 +19491,9 @@
         "author": [
           "Chiel, Arthur A."
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/1997",
+        "URI": "jp_cite_00234",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -18840,6 +19542,9 @@
         "author": [
           "Chiel, Arthur A"
         ],
+        "itemtype": "Journal Article",
+        "date": "11/10/1955",
+        "URI": "jp_cite_00235",
         "locations": {
           "Prince of Wales' Fort, Canada": {
             "lat": 58.79901,
@@ -18937,6 +19642,9 @@
           "Cinamon, Sam",
           "Jewish Federation of Southern Maine"
         ],
+        "itemtype": "Book",
+        "date": 1977,
+        "URI": "jp_cite_00236",
         "locations": {
           "Radom, Poland": {
             "lat": 51.40253,
@@ -18985,6 +19693,9 @@
         "author": [
           "Clark, Thomas"
         ],
+        "itemtype": "Journal Article",
+        "date": "6/1/1966",
+        "URI": "jp_cite_00237",
         "locations": {
           "Alsace, France": {
             "lat": 48.33333,
@@ -19036,6 +19747,9 @@
           "University of Miami",
           "Clark, Thomas"
         ],
+        "itemtype": "Book Section",
+        "date": 1956,
+        "URI": "jp_cite_00238",
         "locations": {
           "Southern United States": {
             "lat": 33.16859,
@@ -19068,6 +19782,9 @@
         "author": [
           "Clark, Thomas Dionysius"
         ],
+        "itemtype": "Book",
+        "date": 1964,
+        "URI": "jp_cite_00239",
         "locations": {
           "Southern United States": {
             "lat": 33.16859,
@@ -19116,6 +19833,9 @@
         "author": [
           "Clark, Thomas Dionysius"
         ],
+        "itemtype": "Book",
+        "date": 2006,
+        "URI": "jp_cite_00240",
         "locations": {
           "Winston County, Mississippi": {
             "lat": 33.08849,
@@ -19164,6 +19884,9 @@
         "author": [
           "Cline, Robert S"
         ],
+        "itemtype": "Thesis",
+        "date": 1982,
+        "URI": "jp_cite_00241",
         "locations": {
           "Portland, Oregon": {
             "lat": 45.52345,
@@ -19228,6 +19951,9 @@
         "author": [
           "Cline, Scott"
         ],
+        "itemtype": "Journal Article",
+        "date": "Spring 1987",
+        "URI": "jp_cite_00242",
         "locations": {
           "Hesse-Darmstadt, Germany": {
             "lat": 49.87167,
@@ -19308,6 +20034,9 @@
         "author": [
           "Coetzee, Daniel"
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/2005",
+        "URI": "jp_cite_00243",
         "locations": {
           "Oudtshoorn, South Africa": {
             "lat": -33.60047,
@@ -19341,6 +20070,9 @@
           "Cohen, David Steven",
           "New Jersey Ethnic Survey"
         ],
+        "itemtype": "Book",
+        "date": 1990,
+        "URI": "jp_cite_00244",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -19504,6 +20236,9 @@
           "Cohen, George",
           "McSweeney, Edward F"
         ],
+        "itemtype": "Book",
+        "date": 1924,
+        "URI": "jp_cite_00245",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -19552,6 +20287,9 @@
         "author": [
           "Cohen, Edward"
         ],
+        "itemtype": "Book",
+        "date": 1999,
+        "URI": "jp_cite_00246",
         "locations": {
           "Romania": {
             "lat": 46.0,
@@ -19680,6 +20418,9 @@
         "author": [
           "Cohen, Irwin J"
         ],
+        "itemtype": "Book",
+        "date": 2003,
+        "URI": "jp_cite_00247",
         "locations": {
           "Detroit, Michigan": {
             "lat": 42.33143,
@@ -19713,6 +20454,9 @@
           "Clar, Reva",
           "Kramer, William M."
         ],
+        "itemtype": "Journal Article",
+        "date": "4/1/2003",
+        "URI": "jp_cite_00248",
         "locations": {
           "San Francisco, California": {
             "lat": 37.77493,
@@ -19762,6 +20506,9 @@
           "Cohen, L",
           "Phillips, M"
         ],
+        "itemtype": "Journal Article",
+        "date": 1944,
+        "URI": "jp_cite_00249",
         "locations": {
           "Lismore, Austrlia": {
           }
@@ -19781,6 +20528,9 @@
         "author": [
           "Cohen, Morris"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00250",
         "locations": {
           "Lukashivka, Ukraine": {
             "lat": 49.77799,
@@ -19829,6 +20579,9 @@
         "author": [
           "Cohen, Robert"
         ],
+        "itemtype": "Book Section",
+        "date": 1982,
+        "URI": "jp_cite_00251",
         "locations": {
           "Suriname": {
             "lat": 4.0,
@@ -19861,6 +20614,9 @@
         "author": [
           "Cohen, Michael"
         ],
+        "itemtype": "Book",
+        "date": 2000,
+        "URI": "jp_cite_00252",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -19941,6 +20697,9 @@
         "author": [
           "Kahn, Ava Fran"
         ],
+        "itemtype": "Book",
+        "date": 2002,
+        "URI": "jp_cite_00253",
         "locations": {
           "Dobryzn, Pomeranian Voivodeship, Poland": {
           },
@@ -20167,6 +20926,9 @@
         "author": [
           "Coleman, Caroline S"
         ],
+        "itemtype": "Book",
+        "date": 1962,
+        "URI": "jp_cite_00254",
         "locations": {
           "Greenville County, South Carolina": {
             "lat": 34.85262,
@@ -20199,6 +20961,9 @@
         "author": [
 
         ],
+        "itemtype": "Journal Article",
+        "date": 1995,
+        "URI": "jp_cite_00255",
         "locations": {
           "Billings, Montana": {
             "lat": 45.78329,
@@ -20231,6 +20996,9 @@
         "author": [
           "Coleman, Michael B"
         ],
+        "itemtype": "Book",
+        "date": 1978,
+        "URI": "jp_cite_00256",
         "locations": {
           "Harrisburg, Pennsylvania": {
             "lat": 40.2737,
@@ -20311,6 +21079,9 @@
         "author": [
           "Collins, Kenneth E"
         ],
+        "itemtype": "Book",
+        "date": 2001,
+        "URI": "jp_cite_00257",
         "locations": {
           "Lithuania": {
             "lat": 55.41667,
@@ -20424,6 +21195,9 @@
           "Collins, Kenneth E",
           "Scottish Jewish Archives"
         ],
+        "itemtype": "Book",
+        "date": 1990,
+        "URI": "jp_cite_00258",
         "locations": {
           "Lithuania": {
             "lat": 55.41667,
@@ -20568,6 +21342,9 @@
         "author": [
           "Coltman, Robert"
         ],
+        "itemtype": "Journal Article",
+        "date": "8/1/1978",
+        "URI": "jp_cite_00259",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -20616,6 +21393,9 @@
         "author": [
           "Cone, Sydney"
         ],
+        "itemtype": "Document",
+        "date": 1972,
+        "URI": "jp_cite_00260",
         "locations": {
           "Altenstadt(Iller), Altenstadt, Germany": {
           },
@@ -20749,6 +21529,9 @@
           "Adam Matthew Digital (Firm)",
           "Adam Matthew Education (Firm)"
         ],
+        "itemtype": "Book",
+        "date": 1888,
+        "URI": "jp_cite_00261",
         "locations": {
           "New York, New York": {
             "lat": 40.71427,
@@ -20782,6 +21565,9 @@
           "Conner, Susan Marks",
           "Littlefield, Oscar"
         ],
+        "itemtype": "Book",
+        "date": 1985,
+        "URI": "jp_cite_00262",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -20911,6 +21697,9 @@
           "Corrales, Maritza",
           "González, Reynaldo"
         ],
+        "itemtype": "Book",
+        "date": 2007,
+        "URI": "jp_cite_00263",
         "locations": {
           "Ostrolenka, Poland": {
             "lat": 53.08621,
@@ -21207,6 +21996,9 @@
         "author": [
           "Corrales, Maritza"
         ],
+        "itemtype": "Book",
+        "date": 2005,
+        "URI": "jp_cite_00264",
         "locations": {
           "Ostrolenka, Poland": {
             "lat": 53.08621,
@@ -21417,6 +22209,9 @@
         "author": [
           "Coulter, E. Merton"
         ],
+        "itemtype": "Book",
+        "date": 1947,
+        "URI": "jp_cite_00265",
         "locations": {
           "Southern United States": {
             "lat": 33.16859,
@@ -21449,6 +22244,9 @@
         "author": [
           "Cowan, Evelyn"
         ],
+        "itemtype": "Book",
+        "date": 1978,
+        "URI": "jp_cite_00266",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -21546,6 +22344,9 @@
           "Cowen, Anne",
           "Cowen, Roger"
         ],
+        "itemtype": "Book",
+        "date": 1986,
+        "URI": "jp_cite_00267",
         "locations": {
           "United Kingdom": {
             "lat": 54.75844,
@@ -21578,6 +22379,9 @@
         "author": [
           "Cowen, Philip"
         ],
+        "itemtype": "Book",
+        "date": 1932,
+        "URI": "jp_cite_00268",
         "locations": {
           "Grodzisk Wielkopolski": {
             "lat": 52.22762,
@@ -21659,6 +22463,9 @@
           "Crawford, Edith",
           "Zeigler, Albert"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00269",
         "locations": {
           "Koblenz, Germany": {
             "lat": 50.35357,
@@ -21771,6 +22578,9 @@
         "author": [
           "Crews, Harry"
         ],
+        "itemtype": "Book",
+        "date": 1978,
+        "URI": "jp_cite_00270",
         "locations": {
           "Appling County, Georgia": {
             "lat": 31.74928,
@@ -21851,6 +22661,9 @@
         "author": [
           "Cross, John C"
         ],
+        "itemtype": "Book",
+        "date": 1998,
+        "URI": "jp_cite_00271",
         "locations": {
           "Mexico City, Mexico": {
             "lat": 19.42847,
@@ -21883,6 +22696,9 @@
         "author": [
           "Cutler, Diane"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00272",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -21947,6 +22763,9 @@
         "author": [
           "Dahbany-Miraglia, Dina"
         ],
+        "itemtype": "Book",
+        "date": 1987,
+        "URI": "jp_cite_00273",
         "locations": {
           "Yemen": {
             "lat": 15.5,
@@ -22027,6 +22846,9 @@
         "author": [
           "Daiken, Leslie"
         ],
+        "itemtype": "Document",
+        "date": 1946,
+        "URI": "jp_cite_00274",
         "locations": {
           "Limerick, Ireland": {
             "lat": 52.66472,
@@ -22059,6 +22881,9 @@
         "author": [
           "Danoff, Hyman O."
         ],
+        "itemtype": "Journal Article",
+        "date": "7/1/1980",
+        "URI": "jp_cite_00275",
         "locations": {
           "Vilnius, Lithuania": {
             "lat": 54.68916,
@@ -22107,6 +22932,9 @@
         "author": [
           "Leonoff, Cyril Edel"
         ],
+        "itemtype": "Journal Article",
+        "date": "10/1/1980",
+        "URI": "jp_cite_00276",
         "locations": {
           "Vancouver Island, Canada": {
             "lat": 49.65064,
@@ -22139,6 +22967,9 @@
         "author": [
           "Danowitz, Helen Garonzik"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00277",
         "locations": {
           "Riga, Latvia": {
             "lat": 56.946,
@@ -22204,6 +23035,9 @@
           "Darity, William A., Jr.",
           "Williams, Rhonda M."
         ],
+        "itemtype": "Journal Article",
+        "date": "5/1/1985",
+        "URI": "jp_cite_00278",
         "locations": {
           "Eastern Europe": {
             "lat": 51.72703,
@@ -22253,6 +23087,9 @@
           "Darvish-Lecker, Tikva",
           "Don, Yehuda"
         ],
+        "itemtype": "Journal Article",
+        "date": 1990,
+        "URI": "jp_cite_00279",
         "locations": {
           "Quito, Ecuador": {
             "lat": -0.22985,
@@ -22429,6 +23266,9 @@
         "author": [
           "David, Jerome Paul"
         ],
+        "itemtype": "Thesis",
+        "date": 1974,
+        "URI": "jp_cite_00280",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -22493,6 +23333,9 @@
         "author": [
           "Davidson, Israel"
         ],
+        "itemtype": "Journal Article",
+        "date": "11/1/1904",
+        "URI": "jp_cite_00281",
         "locations": {
           "Ossining, New York": {
             "lat": 41.16287,
@@ -22525,6 +23368,9 @@
         "author": [
           "Davidson, Israel"
         ],
+        "itemtype": "Book",
+        "date": 1907,
+        "URI": "jp_cite_00282",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -22573,6 +23419,9 @@
         "author": [
           "Tobias, Lily"
         ],
+        "itemtype": "Book Section",
+        "date": 2002,
+        "URI": "jp_cite_00283",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -22637,6 +23486,9 @@
         "author": [
           "Davis, Barbara Sheklin"
         ],
+        "itemtype": "Book",
+        "date": 1986,
+        "URI": "jp_cite_00284",
         "locations": {
           "Syracuse, New York": {
             "lat": 43.04812,
@@ -22749,6 +23601,9 @@
         "author": [
           "Davis, Dora C."
         ],
+        "itemtype": "Document",
+        "date": "12/16/1965",
+        "URI": "jp_cite_00285",
         "locations": {
           "New York, New York": {
             "lat": 40.71427,
@@ -22847,6 +23702,9 @@
         "author": [
           "Davis, Dudley David"
         ],
+        "itemtype": "Book",
+        "date": 1977,
+        "URI": "jp_cite_00286",
         "locations": {
           "London, United Kingdom": {
             "lat": 51.50853,
@@ -22911,6 +23769,9 @@
         "author": [
           "Davis, Eliot R"
         ],
+        "itemtype": "Book",
+        "date": 1948,
+        "URI": "jp_cite_00287",
         "locations": {
           "New Zealand": {
             "lat": -42.0,
@@ -22943,6 +23804,9 @@
         "author": [
           "Davis, John H"
         ],
+        "itemtype": "Book",
+        "date": 1978,
+        "URI": "jp_cite_00288",
         "locations": {
           "Lengnau, Switzerland": {
             "lat": 47.52222,
@@ -22991,6 +23855,9 @@
         "author": [
           "Davis, Max"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00289",
         "locations": {
           "Romania": {
             "lat": 46.0,
@@ -23040,6 +23907,9 @@
           "DuBois, Rachel Davis",
           "Schweppe, Emma"
         ],
+        "itemtype": "Book",
+        "date": 1935,
+        "URI": "jp_cite_00290",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -23090,6 +23960,9 @@
         "author": [
           "Decker, Peter R"
         ],
+        "itemtype": "Book",
+        "date": 1978,
+        "URI": "jp_cite_00291",
         "locations": {
           "San Francisco, California": {
             "lat": 37.77493,
@@ -23170,6 +24043,9 @@
         "author": [
           "Goldberg, David J"
         ],
+        "itemtype": "Document",
+        "date": 1976,
+        "URI": "jp_cite_00292",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -23298,6 +24174,9 @@
         "author": [
           "Goldberg, David J"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00293",
         "locations": {
           "Columbus, Georgia": {
             "lat": 32.46098,
@@ -23330,6 +24209,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": 1856,
+        "URI": "jp_cite_00294",
         "locations": {
           "Louisville, Kentucky": {
             "lat": 38.25424,
@@ -23442,6 +24324,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": 1859,
+        "URI": "jp_cite_00295",
         "locations": {
           "Cincinnati, Ohio": {
             "lat": 39.162,
@@ -23474,6 +24359,9 @@
         "author": [
           "Dawidowicz, Lucy"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00296",
         "locations": {
           "Albany, New York": {
             "lat": 42.65258,
@@ -23522,6 +24410,9 @@
         "author": [
           "Wolitz, Seth"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00297",
         "locations": {
           "San Antonio, Texas": {
             "lat": 29.42412,
@@ -23571,6 +24462,9 @@
           "DuBois, Rachel Davis",
           "Schweppe, Emma"
         ],
+        "itemtype": "Book",
+        "date": 1935,
+        "URI": "jp_cite_00298",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -23619,6 +24513,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": "9/8/1876",
+        "URI": "jp_cite_00299",
         "locations": {
           "Philadelphia, Pennsylvania": {
             "lat": 39.95234,
@@ -23651,6 +24548,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00300",
         "locations": {
           "New York, New York": {
             "lat": 40.71427,
@@ -23683,6 +24583,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": "8/23/1878",
+        "URI": "jp_cite_00301",
         "locations": {
           "New York, New York": {
             "lat": 40.71427,
@@ -23715,6 +24618,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": 1886,
+        "URI": "jp_cite_00302",
         "locations": {
           "Savannah, Georgia": {
             "lat": 32.08354,
@@ -23747,6 +24653,9 @@
         "author": [
           "Minces, Elizabeth Nordhaus"
         ],
+        "itemtype": "Document",
+        "date": 1980,
+        "URI": "jp_cite_00303",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -23811,6 +24720,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": 1977,
+        "URI": "jp_cite_00304",
         "locations": {
           "Indiana": {
             "lat": 40.00032,
@@ -23843,6 +24755,9 @@
         "author": [
           "Dean-Olmsted, Evelyn"
         ],
+        "itemtype": "Journal Article",
+        "date": "1/18/2010",
+        "URI": "jp_cite_00305",
         "locations": {
           "Aleppo, Syria": {
             "lat": 36.20124,
@@ -23955,6 +24870,9 @@
         "author": [
           "Dedam, Kim Smith"
         ],
+        "itemtype": "Webpage",
+        "date": null,
+        "URI": "jp_cite_00306",
         "locations": {
           "Old Forge, New York": {
             "lat": 43.72572,
@@ -24035,6 +24953,9 @@
         "author": [
 
         ],
+        "itemtype": "Webpage",
+        "date": null,
+        "URI": "jp_cite_00307",
         "locations": {
           "Old Forge, New York": {
             "lat": 43.72572,
@@ -24083,6 +25004,9 @@
         "author": [
 
         ],
+        "itemtype": "Webpage",
+        "date": "10/21/2008",
+        "URI": "jp_cite_00308",
         "locations": {
           "Old Forge, New York": {
             "lat": 43.72572,
@@ -24133,6 +25057,9 @@
         "author": [
           "Moe, Todd"
         ],
+        "itemtype": "Webpage",
+        "date": "8/1/2003",
+        "URI": "jp_cite_00309",
         "locations": {
           "Old Forge, New York": {
             "lat": 43.72572,
@@ -24165,6 +25092,9 @@
         "author": [
           "Messere, Mary"
         ],
+        "itemtype": "Webpage",
+        "date": null,
+        "URI": "jp_cite_00310",
         "locations": {
           "Old Forge, New York": {
             "lat": 43.72572,
@@ -24229,6 +25159,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": 1924,
+        "URI": "jp_cite_00311",
         "locations": {
           "Paris, France": {
             "lat": 48.85341,
@@ -24309,6 +25242,9 @@
         "author": [
           "Straus, Oscar"
         ],
+        "itemtype": "Document",
+        "date": 1928,
+        "URI": "jp_cite_00312",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -24341,6 +25277,9 @@
         "author": [
           "Dekel-Chen, Jonathan"
         ],
+        "itemtype": "manuscript",
+        "date": 2001,
+        "URI": "jp_cite_00313",
         "locations": {
           "Russia": {
             "lat": 60.0,
@@ -24374,6 +25313,9 @@
           "Delevante, Marilyn",
           "Alberga, Anthony"
         ],
+        "itemtype": "Book",
+        "date": 2006,
+        "URI": "jp_cite_00314",
         "locations": {
           "Kingston, Jamaica": {
             "lat": 17.99702,
@@ -24406,6 +25348,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": "6/20/1907",
+        "URI": "jp_cite_00315",
         "locations": {
           "Mineral Point, Wisconsin": {
             "lat": 42.86,
@@ -24471,6 +25416,9 @@
           "Western Historical Co",
           "Wisconsin Historical Society"
         ],
+        "itemtype": "Document",
+        "date": 1881,
+        "URI": "jp_cite_00316",
         "locations": {
           "Mineral Point, Wisconsin": {
             "lat": 42.86,
@@ -24535,6 +25483,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": 1901,
+        "URI": "jp_cite_00317",
         "locations": {
           "Bavaria": {
             "lat": 49.0,
@@ -24631,6 +25582,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": "9/1/1891",
+        "URI": "jp_cite_00318",
         "locations": {
           "Mineral Point, Wisconsin": {
             "lat": 42.86,
@@ -24663,6 +25617,9 @@
         "author": [
           "Delo, David Michael"
         ],
+        "itemtype": "Book",
+        "date": 1992,
+        "URI": "jp_cite_00319",
         "locations": {
           "New Mexico": {
             "lat": 34.50034,
@@ -24695,6 +25652,9 @@
         "author": [
           "Denebeim, Abraham"
         ],
+        "itemtype": "Document",
+        "date": 1927,
+        "URI": "jp_cite_00320",
         "locations": {
           "Suwalki, Poland": {
             "lat": 54.11175,
@@ -24861,6 +25821,9 @@
         "author": [
           "Deshen, Shlomo A"
         ],
+        "itemtype": "Book",
+        "date": 1989,
+        "URI": "jp_cite_00321",
         "locations": {
           "Meknes, Morocco": {
             "lat": 33.89352,
@@ -24925,6 +25888,9 @@
         "author": [
           "Deutsch, Sandra McGee"
         ],
+        "itemtype": "Book",
+        "date": 2010,
+        "URI": "jp_cite_00322",
         "locations": {
           "Morocco": {
             "lat": 32.0,
@@ -25021,6 +25987,9 @@
         "author": [
           "Devlin, Dennis S"
         ],
+        "itemtype": "Book",
+        "date": 1988,
+        "URI": "jp_cite_00323",
         "locations": {
           "Muskegon, Michigan": {
             "lat": 43.23418,
@@ -25150,6 +26119,9 @@
           "Deutsch, Richard",
           "New Mexico Jewish Historical Society"
         ],
+        "itemtype": "Book",
+        "date": 2005,
+        "URI": "jp_cite_00324",
         "locations": {
           "New Mexico": {
             "lat": 34.50034,
@@ -25214,6 +26186,9 @@
         "author": [
           "Deutsch, Tracey"
         ],
+        "itemtype": "Book",
+        "date": 2010,
+        "URI": "jp_cite_00325",
         "locations": {
           "Chicago, Illinois": {
             "lat": 41.85003,
@@ -25262,6 +26237,9 @@
         "author": [
           "Dik, Isaac Meir"
         ],
+        "itemtype": "Book",
+        "date": 1872,
+        "URI": "jp_cite_00326",
         "locations": {
           "Louisiana": {
             "lat": 31.00047,
@@ -25310,6 +26288,9 @@
         "author": [
           "Dickinson, John K"
         ],
+        "itemtype": "Book",
+        "date": 1967,
+        "URI": "jp_cite_00327",
         "locations": {
           "Hesse, Germany": {
             "lat": 50.55,
@@ -25342,6 +26323,9 @@
         "author": [
           "Diner, Hasia R"
         ],
+        "itemtype": "Book",
+        "date": 1992,
+        "URI": "jp_cite_00328",
         "locations": {
           "Mississippi Delta": {
             "lat": 33.07401,
@@ -25534,6 +26518,9 @@
         "author": [
           "Dinnerstein, Leonard"
         ],
+        "itemtype": "Book",
+        "date": 1994,
+        "URI": "jp_cite_00329",
         "locations": {
           "Detroit, Michigan": {
             "lat": 42.33143,
@@ -25567,6 +26554,9 @@
           "Elazar, Daniel Judah",
           "Medding, Peter"
         ],
+        "itemtype": "Book",
+        "date": 1983,
+        "URI": "jp_cite_00330",
         "locations": {
           "Argentina": {
             "lat": -34.0,
@@ -25602,6 +26592,9 @@
           "Dinnerstein, Leonard",
           "Palsson, Mary Dale"
         ],
+        "itemtype": "Book",
+        "date": 1973,
+        "URI": "jp_cite_00331",
         "locations": {
           "Talbottom, Georgia": {
           }
@@ -25621,6 +26614,9 @@
         "author": [
           "Dinkelspiel, Frances"
         ],
+        "itemtype": "Book",
+        "date": 2008,
+        "URI": "jp_cite_00332",
         "locations": {
           "Franconia, Germany": {
             "lat": 49.83333,
@@ -25719,6 +26715,9 @@
           "Greenblatt, Louis",
           "Levine, Blanche"
         ],
+        "itemtype": "Book",
+        "date": 1981,
+        "URI": "jp_cite_00333",
         "locations": {
           "Ogdensburg, New York": {
             "lat": 44.69423,
@@ -25895,6 +26894,9 @@
         "author": [
           "Dolgon, Corey"
         ],
+        "itemtype": "Book",
+        "date": 2005,
+        "URI": "jp_cite_00334",
         "locations": {
         }
       },
@@ -25912,6 +26914,9 @@
         "author": [
           "Downey, Lynn"
         ],
+        "itemtype": "Book",
+        "date": 2007,
+        "URI": "jp_cite_00335",
         "locations": {
         }
       },
@@ -25929,6 +26934,9 @@
         "author": [
           "Drachman, Bernard"
         ],
+        "itemtype": "Book",
+        "date": 1970,
+        "URI": "jp_cite_00336",
         "locations": {
           "New York, New York": {
             "lat": 40.71427,
@@ -25961,6 +26969,9 @@
         "author": [
           "Dreidel, E.M."
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00337",
         "locations": {
           "McGeehee, Arkansas": {
           },
@@ -26044,6 +27055,9 @@
           "Dubrovsky, Gertrude",
           "Brandes, Joseph"
         ],
+        "itemtype": "Journal Article",
+        "date": 1996,
+        "URI": "jp_cite_00338",
         "locations": {
           "Lexington, Kentucky": {
             "lat": 37.98869,
@@ -26093,6 +27107,9 @@
           "Schwartz, Israel Jacob",
           "Dubrovsky, Gertrude Wishnick"
         ],
+        "itemtype": "Book",
+        "date": 1990,
+        "URI": "jp_cite_00339",
         "locations": {
         }
       },
@@ -26110,6 +27127,9 @@
         "author": [
           "Duffy, Mark J"
         ],
+        "itemtype": "Thesis",
+        "date": 1985,
+        "URI": "jp_cite_00340",
         "locations": {
           "Dublin, Ireland": {
             "lat": 53.33306,
@@ -26160,6 +27180,9 @@
           "Shapiro, Beatrice Michaels",
           "Chicago Jewish Historical Society"
         ],
+        "itemtype": "Book",
+        "date": 1991,
+        "URI": "jp_cite_00341",
         "locations": {
           "Chicago, Illinois": {
             "lat": 41.85003,
@@ -26256,6 +27279,9 @@
         "author": [
           "Eby, Kermit"
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/1949",
+        "URI": "jp_cite_00342",
         "locations": {
           "Indiana": {
             "lat": 40.00032,
@@ -26288,6 +27314,9 @@
         "author": [
           "Edelman, Fannie"
         ],
+        "itemtype": "Book",
+        "date": 1961,
+        "URI": "jp_cite_00343",
         "locations": {
         }
       },
@@ -26306,6 +27335,9 @@
           "Edelstein, Joseph",
           "Blake, Phil"
         ],
+        "itemtype": "Book",
+        "date": 1908,
+        "URI": "jp_cite_00344",
         "locations": {
           "Kovno, Lithuania": {
             "lat": 54.9,
@@ -26354,6 +27386,9 @@
         "author": [
           "Edgeworth, Maria"
         ],
+        "itemtype": "Book",
+        "date": 2008,
+        "URI": "jp_cite_00345",
         "locations": {
           "Jamaica": {
             "lat": 18.16667,
@@ -26386,6 +27421,9 @@
         "author": [
           "Ehrmann, Hilmar Bruce"
         ],
+        "itemtype": "Thesis",
+        "date": 1948,
+        "URI": "jp_cite_00346",
         "locations": {
           "Bavaria, Germany": {
             "lat": 48.13743,
@@ -26450,6 +27488,9 @@
         "author": [
           "Einfeld, Billie"
         ],
+        "itemtype": "Journal Article",
+        "date": "10/1/2007",
+        "URI": "jp_cite_00347",
         "locations": {
           "Radzymin, Poland": {
             "lat": 52.41592,
@@ -26514,6 +27555,9 @@
         "author": [
           "Einfuss, Jossel"
         ],
+        "itemtype": "Journal Article",
+        "date": "5/1/1978",
+        "URI": "jp_cite_00348",
         "locations": {
           "Shadiver, Lithuania": {
           },
@@ -26548,6 +27592,9 @@
         "author": [
           "Eisenberg, Matthew J"
         ],
+        "itemtype": "Thesis",
+        "date": 1991,
+        "URI": "jp_cite_00349",
         "locations": {
           "Dawson, Alaska": {
             "lat": 55.47083,
@@ -26613,6 +27660,9 @@
           "Elzas, Barnett A.",
           "Wise, Stephen Samuel"
         ],
+        "itemtype": "Document",
+        "date": 1925,
+        "URI": "jp_cite_00350",
         "locations": {
           "Horažďovice, Czech Republic": {
             "lat": 49.32069,
@@ -26713,6 +27763,9 @@
           "Mazal Holocaust Collection",
           "Jewish Publication Society of America"
         ],
+        "itemtype": "Book",
+        "date": 1944,
+        "URI": "jp_cite_00351",
         "locations": {
           "Romania": {
             "lat": 46.0,
@@ -26745,6 +27798,9 @@
         "author": [
 
         ],
+        "itemtype": "audioRecording",
+        "date": 1983,
+        "URI": "jp_cite_00352",
         "locations": {
           "Romania": {
             "lat": 46.0,
@@ -26811,6 +27867,9 @@
         "author": [
           "Ehrenfried, Albert"
         ],
+        "itemtype": "Book",
+        "date": 1963,
+        "URI": "jp_cite_00353",
         "locations": {
           "Boston, Massachusetts": {
             "lat": 42.35843,
@@ -26893,6 +27952,9 @@
         "author": [
           "Eichhorn, David Max"
         ],
+        "itemtype": "Book",
+        "date": 1996,
+        "URI": "jp_cite_00354",
         "locations": {
           "Boone County, Kentucky": {
             "lat": 38.99895,
@@ -27005,6 +28067,9 @@
         "author": [
           "Erdman, Harley"
         ],
+        "itemtype": "Book",
+        "date": 1997,
+        "URI": "jp_cite_00355",
         "locations": {
         }
       },
@@ -27024,6 +28089,9 @@
           "Kahn, Ava Fran",
           "Toll, William"
         ],
+        "itemtype": "Book",
+        "date": 2009,
+        "URI": "jp_cite_00356",
         "locations": {
           "Württemberg, Germany": {
             "lat": 48.5,
@@ -27154,6 +28222,9 @@
         "author": [
           "Eliassof, Herman"
         ],
+        "itemtype": "Book",
+        "date": 1901,
+        "URI": "jp_cite_00357",
         "locations": {
           "Portland, Maine": {
             "lat": 43.66147,
@@ -27218,6 +28289,9 @@
         "author": [
           "Eliassof, Herman"
         ],
+        "itemtype": "Book",
+        "date": 1915,
+        "URI": "jp_cite_00358",
         "locations": {
           "Abenheim, Worms, Germany": {
           },
@@ -27380,6 +28454,9 @@
         "author": [
           "Elkin, Judith Laikin"
         ],
+        "itemtype": "Book",
+        "date": 1980,
+        "URI": "jp_cite_00359",
         "locations": {
           "Colombia": {
             "lat": 4.0,
@@ -27604,6 +28681,9 @@
         "author": [
 
         ],
+        "itemtype": "Book",
+        "date": 1986,
+        "URI": "jp_cite_00360",
         "locations": {
           "Argentina": {
             "lat": -34.0,
@@ -27878,6 +28958,9 @@
         "author": [
           "Elkin, Judith Laikin"
         ],
+        "itemtype": "Book",
+        "date": 1998,
+        "URI": "jp_cite_00361",
         "locations": {
           "Mexico City, Mexico": {
             "lat": 19.42847,
@@ -28070,6 +29153,9 @@
         "author": [
           "Elon, Amos"
         ],
+        "itemtype": "Book",
+        "date": 2002,
+        "URI": "jp_cite_00362",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -28102,6 +29188,9 @@
         "author": [
           "Elovitz, Mark H"
         ],
+        "itemtype": "Book",
+        "date": 1974,
+        "URI": "jp_cite_00363",
         "locations": {
           "Birmingham, Alabama": {
             "lat": 33.52066,
@@ -28262,6 +29351,9 @@
         "author": [
           "Elzas, Barnett A"
         ],
+        "itemtype": "Book",
+        "date": 1903,
+        "URI": "jp_cite_00364",
         "locations": {
           "England": {
             "lat": 44.2056,
@@ -28314,6 +29406,9 @@
           "University of New South Wales",
           "School of Sociology"
         ],
+        "itemtype": "Book",
+        "date": 1972,
+        "URI": "jp_cite_00365",
         "locations": {
           "Sydney, Australia": {
             "lat": -33.86785,
@@ -28410,6 +29505,9 @@
         "author": [
           "Endelman, Todd M"
         ],
+        "itemtype": "Book",
+        "date": 1999,
+        "URI": "jp_cite_00366",
         "locations": {
           "Monmouthshire, Wales": {
             "lat": 51.75,
@@ -28684,6 +29782,9 @@
         "author": [
           "Endelman, Judith E"
         ],
+        "itemtype": "Book",
+        "date": 1984,
+        "URI": "jp_cite_00367",
         "locations": {
           "Indianapolis, Indiana": {
             "lat": 39.76838,
@@ -28860,6 +29961,9 @@
         "author": [
 
         ],
+        "itemtype": "Document",
+        "date": 1992,
+        "URI": "jp_cite_00368",
         "locations": {
           "Limerick, Ireland": {
             "lat": 52.66472,
@@ -28892,6 +29996,9 @@
         "author": [
           "Engel, Herbert M"
         ],
+        "itemtype": "Book",
+        "date": 1991,
+        "URI": "jp_cite_00369",
         "locations": {
           "Wrocław, Poland": {
             "lat": 51.1,
@@ -28972,6 +30079,9 @@
         "author": [
           "Englander, David"
         ],
+        "itemtype": "Book",
+        "date": 1994,
+        "URI": "jp_cite_00370",
         "locations": {
           "London, England": {
             "lat": 51.50853,
@@ -29020,6 +30130,9 @@
         "author": [
           "Epstein, Howard Victor"
         ],
+        "itemtype": "Book",
+        "date": 1997,
+        "URI": "jp_cite_00371",
         "locations": {
           "Fort William, Ontario, Canada": {
             "lat": 48.34278,
@@ -29598,6 +30711,9 @@
         "author": [
           "Levy, Lester S"
         ],
+        "itemtype": "Book",
+        "date": 1978,
+        "URI": "jp_cite_00372",
         "locations": {
           "Baltimore, Maryland": {
             "lat": 39.29038,
@@ -29662,6 +30778,9 @@
         "author": [
           "Epstein, Elliott L."
         ],
+        "itemtype": "conferencePaper",
+        "date": 2011,
+        "URI": "jp_cite_00373",
         "locations": {
           "Lewiston-Auburn, Maine": {
             "lat": 44.04856,
@@ -29712,6 +30831,9 @@
         "author": [
           "Cohen, Natalie"
         ],
+        "itemtype": "conferencePaper",
+        "date": 2011,
+        "URI": "jp_cite_00374",
         "locations": {
           "Aroostook County, Maine": {
             "lat": 46.65881,
@@ -29744,6 +30866,9 @@
         "author": [
           "Ernst, Robert"
         ],
+        "itemtype": "Book",
+        "date": 1994,
+        "URI": "jp_cite_00375",
         "locations": {
           "New York City, New York": {
             "lat": 40.71427,
@@ -29776,6 +30901,9 @@
         "author": [
           "Evans, Eli N"
         ],
+        "itemtype": "Book",
+        "date": 1973,
+        "URI": "jp_cite_00376",
         "locations": {
           "Fayetteville, North Carolina": {
             "lat": 35.05266,
@@ -29840,6 +30968,9 @@
         "author": [
           "Engel, Irving"
         ],
+        "itemtype": "Document",
+        "date": "1969-1970",
+        "URI": "jp_cite_00377",
         "locations": {
           "New York, New York": {
             "lat": 40.71427,
@@ -29920,6 +31051,9 @@
         "author": [
           "Eker, Glen"
         ],
+        "itemtype": "Book",
+        "date": 2002,
+        "URI": "jp_cite_00378",
         "locations": {
           "Hamilton, Ontario, Canada": {
             "lat": 43.25011,
@@ -30036,6 +31170,9 @@
           "Buckland, Gail",
           "Lefer, David"
         ],
+        "itemtype": "Book",
+        "date": 2004,
+        "URI": "jp_cite_00379",
         "locations": {
           "New York, New York": {
             "lat": 40.71427,
@@ -30148,6 +31285,9 @@
         "author": [
           "Ezratty, Harry A"
         ],
+        "itemtype": "Book",
+        "date": 1997,
+        "URI": "jp_cite_00380",
         "locations": {
           "Trinidad": {
             "lat": -14.83333,
@@ -30228,6 +31368,9 @@
         "author": [
           "Ezratty, Harry A"
         ],
+        "itemtype": "Book",
+        "date": 2008,
+        "URI": "jp_cite_00381",
         "locations": {
           "Montgomery, Alabama": {
             "lat": 32.36681,
@@ -30276,6 +31419,9 @@
         "author": [
           "Factor, Isaac"
         ],
+        "itemtype": "Journal Article",
+        "date": "12/1/1961",
+        "URI": "jp_cite_00382",
         "locations": {
           "Salantai, Lithuania": {
             "lat": 56.06667,
@@ -30328,6 +31474,9 @@
           "Decter, Avi Y",
           "Jewish Museum of Maryland"
         ],
+        "itemtype": "Book",
+        "date": 2002,
+        "URI": "jp_cite_00383",
         "locations": {
           "Bavaria, Germany": {
             "lat": 48.13743,
@@ -30505,6 +31654,9 @@
           "Fawcett, Louise",
           "Posada-Carbo"
         ],
+        "itemtype": "Journal Article",
+        "date": 1997,
+        "URI": "jp_cite_00384",
         "locations": {
           "Bogotá, Colombia": {
             "lat": 4.60971,
@@ -30553,6 +31705,9 @@
         "author": [
           "Ryan, Des"
         ],
+        "itemtype": "Journal Article",
+        "date": 1984,
+        "URI": "jp_cite_00385",
         "locations": {
           "Limerick, Ireland": {
             "lat": 52.66472,
@@ -30585,6 +31740,9 @@
         "author": [
           "Ryan, Des"
         ],
+        "itemtype": "Journal Article",
+        "date": 1985,
+        "URI": "jp_cite_00386",
         "locations": {
           "Limerick, Ireland": {
             "lat": 52.66472,
@@ -30618,6 +31776,9 @@
           "Feig, Konnilyn G.",
           "Jewish Federation of Southern Maine"
         ],
+        "itemtype": "Book",
+        "date": 1977,
+        "URI": "jp_cite_00387",
         "locations": {
           "Riga, Latvia": {
             "lat": 56.946,
@@ -30732,6 +31893,9 @@
           "Sadick, Nancy",
           "Worcester Historical Museum"
         ],
+        "itemtype": "Book",
+        "date": 1983,
+        "URI": "jp_cite_00388",
         "locations": {
           "Worcester, Massachusetts": {
             "lat": 42.26259,
@@ -30764,6 +31928,9 @@
         "author": [
           "Fein, Isaac M"
         ],
+        "itemtype": "Book",
+        "date": 1971,
+        "URI": "jp_cite_00389",
         "locations": {
           "Baltimore, Maryland": {
             "lat": 39.29038,
@@ -30796,6 +31963,9 @@
         "author": [
           "Feldman, David"
         ],
+        "itemtype": "Journal Article",
+        "date": "3/20/2007",
+        "URI": "jp_cite_00390",
         "locations": {
           "South Africa": {
             "lat": -29.0,
@@ -30956,6 +32126,9 @@
         "author": [
           "Feldman, Jacob S"
         ],
+        "itemtype": "Book",
+        "date": 1959,
+        "URI": "jp_cite_00391",
         "locations": {
           "Pittsburgh, Pennsylvania": {
             "lat": 40.44062,
@@ -31228,6 +32401,9 @@
         "author": [
           "Feldman, Jacob S"
         ],
+        "itemtype": "Book",
+        "date": 1986,
+        "URI": "jp_cite_00392",
         "locations": {
           "Simnas, Lithuania": {
             "lat": 54.4,
@@ -31356,6 +32532,9 @@
         "author": [
           "Korn, Bertram W."
         ],
+        "itemtype": "Journal Article",
+        "date": "4/1/1961",
+        "URI": "jp_cite_00393",
         "locations": {
           "Augusta, Georgia": {
             "lat": 33.47097,
@@ -31388,6 +32567,9 @@
         "author": [
           "Berman, Hannah"
         ],
+        "itemtype": "Book",
+        "date": 1927,
+        "URI": "jp_cite_00394",
         "locations": {
           "Lithuania": {
             "lat": 55.41667,
@@ -31420,6 +32602,9 @@
         "author": [
           "Barwin, Victor"
         ],
+        "itemtype": "Book Section",
+        "date": 1952,
+        "URI": "jp_cite_00395",
         "locations": {
           "Cape Town, South Africa": {
             "lat": -33.92584,
@@ -31453,6 +32638,9 @@
           "Fels, Mary",
           "Oliver Wendell Holmes Collection (Library of Congress)"
         ],
+        "itemtype": "Book",
+        "date": 1916,
+        "URI": "jp_cite_00396",
         "locations": {
           "Philadelphia, Pennsylvania": {
             "lat": 39.95234,
@@ -31518,6 +32706,9 @@
           "Felsenstein, Frank",
           "Mazal Holocaust Collection"
         ],
+        "itemtype": "Book",
+        "date": 1995,
+        "URI": "jp_cite_00397",
         "locations": {
           "England": {
             "lat": 44.2056,
@@ -31550,6 +32741,9 @@
         "author": [
           "Fenton, Tamar"
         ],
+        "itemtype": "Book",
+        "date": 2004,
+        "URI": "jp_cite_00398",
         "locations": {
           "St. Paul, Minnesota": {
             "lat": 44.94441,
@@ -31662,6 +32856,9 @@
         "author": [
           "Bell, William Abraham"
         ],
+        "itemtype": "Book",
+        "date": 1965,
+        "URI": "jp_cite_00399",
         "locations": {
         }
       },
@@ -31679,6 +32876,9 @@
         "author": [
           "Ferguson, Connie Spiegel"
         ],
+        "itemtype": "Document",
+        "date": null,
+        "URI": "jp_cite_00400",
         "locations": {
           "Newberry, South Carolina": {
             "lat": 34.28981,
@@ -31729,6 +32929,9 @@
         "author": [
           "Ferris, Marcie Cohen"
         ],
+        "itemtype": "Journal Article",
+        "date": 2004,
+        "URI": "jp_cite_00401",
         "locations": {
           "Mississippi Delta": {
             "lat": 33.07401,
@@ -31761,6 +32964,9 @@
         "author": [
           "Fetters, Erwin"
         ],
+        "itemtype": "Newspaper Article",
+        "date": "4/24/1959",
+        "URI": "jp_cite_00402",
         "locations": {
           "Cincinnati, Ohio": {
             "lat": 39.162,
@@ -31793,6 +32999,9 @@
         "author": [
           "Fierman, Floyd S."
         ],
+        "itemtype": "Journal Article",
+        "date": "Fall 2004",
+        "URI": "jp_cite_00403",
         "locations": {
           "Santa Fe, New Mexico": {
             "lat": 35.68698,
@@ -31825,6 +33034,9 @@
         "author": [
           "Fierman, Floyd S."
         ],
+        "itemtype": "Book",
+        "date": 1980,
+        "URI": "jp_cite_00404",
         "locations": {
           "El Paso, Texas": {
             "lat": 31.75872,
@@ -31953,6 +33165,9 @@
         "author": [
           "Fierman, Floyd S."
         ],
+        "itemtype": "Journal Article",
+        "date": 2001,
+        "URI": "jp_cite_00405",
         "locations": {
           "Colorado": {
             "lat": 39.00027,
@@ -32033,6 +33248,9 @@
         "author": [
           "Peters, Charles S."
         ],
+        "itemtype": "Journal Article",
+        "date": 2001,
+        "URI": "jp_cite_00406",
         "locations": {
           "Walla Walla, Washington": {
             "lat": 46.2298,
@@ -32113,6 +33331,9 @@
         "author": [
           "Fierman, Floyd S"
         ],
+        "itemtype": "Book",
+        "date": 1985,
+        "URI": "jp_cite_00407",
         "locations": {
           "Santa Fe, New Mexico": {
             "lat": 35.68698,
@@ -32194,6 +33415,9 @@
           "Fine, Henry",
           "Fine, Lea"
         ],
+        "itemtype": "Journal Article",
+        "date": "7/1/1977",
+        "URI": "jp_cite_00408",
         "locations": {
           "Minneapolis, Minnesota": {
             "lat": 44.97997,
@@ -32338,6 +33562,9 @@
         "author": [
           "Fink, Deborah"
         ],
+        "itemtype": "Book",
+        "date": 1992,
+        "URI": "jp_cite_00409",
         "locations": {
         }
       },
@@ -32355,6 +33582,9 @@
         "author": [
           "Abrahams, Israel"
         ],
+        "itemtype": "Book",
+        "date": 1955,
+        "URI": "jp_cite_00410",
         "locations": {
           "Western Province, South Africa": {
             "lat": -34.0,
@@ -32387,6 +33617,9 @@
         "author": [
           "Aiken, Charles S"
         ],
+        "itemtype": "Book",
+        "date": 1998,
+        "URI": "jp_cite_00411",
         "locations": {
           "Southern United States": {
             "lat": 33.16859,
@@ -32419,6 +33652,9 @@
         "author": [
           "Alderman, Geoffrey"
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/1972",
+        "URI": "jp_cite_00412",
         "locations": {
           "South Wales, Australia": {
             "lat": -33.86785,
@@ -32451,6 +33687,9 @@
         "author": [
           "Alderman, Geoffrey"
         ],
+        "itemtype": "Journal Article",
+        "date": "6/1/2001",
+        "URI": "jp_cite_00413",
         "locations": {
           "South Wales, Australia": {
             "lat": -33.86785,
@@ -32483,6 +33722,9 @@
         "author": [
           "Aleshnick, Barry L."
         ],
+        "itemtype": "Thesis",
+        "date": "4/1/1979",
+        "URI": "jp_cite_00414",
         "locations": {
           "New Brunswick, New Jersey": {
             "lat": 40.48622,
@@ -32531,6 +33773,9 @@
         "author": [
           "Aron, Stephen"
         ],
+        "itemtype": "Journal Article",
+        "date": "5/1/1994",
+        "URI": "jp_cite_00415",
         "locations": {
         }
       },
@@ -32548,6 +33793,9 @@
         "author": [
           "Atkeson, Mary Meek"
         ],
+        "itemtype": "Journal Article",
+        "date": "5/1/1929",
+        "URI": "jp_cite_00416",
         "locations": {
         }
       },
@@ -32565,6 +33813,9 @@
         "author": [
           "Ayers, Edward L"
         ],
+        "itemtype": "Book",
+        "date": 1992,
+        "URI": "jp_cite_00417",
         "locations": {
         }
       },
@@ -32582,6 +33833,9 @@
         "author": [
           "Bacon, George F"
         ],
+        "itemtype": "Book",
+        "date": 1892,
+        "URI": "jp_cite_00418",
         "locations": {
           "Maine": {
             "lat": 45.50032,
@@ -32614,6 +33868,9 @@
         "author": [
 
         ],
+        "itemtype": "Book Section",
+        "date": 1952,
+        "URI": "jp_cite_00419",
         "locations": {
           "South Africa": {
             "lat": -29.0,
@@ -32646,6 +33903,9 @@
         "author": [
           "Barker, Ernest,"
         ],
+        "itemtype": "Book",
+        "date": 1919,
+        "URI": "jp_cite_00420",
         "locations": {
           "Ireland": {
             "lat": 53.0,
@@ -32678,6 +33938,9 @@
         "author": [
           "Barth, Fredrik"
         ],
+        "itemtype": "Book",
+        "date": 1966,
+        "URI": "jp_cite_00421",
         "locations": {
         }
       },
@@ -32695,6 +33958,9 @@
         "author": [
           "Bein, Alex"
         ],
+        "itemtype": "Journal Article",
+        "date": 1964,
+        "URI": "jp_cite_00422",
         "locations": {
         }
       },
@@ -32715,6 +33981,9 @@
           "Dublin Seminar for New England Folklife",
           "Dublin Seminar for New England Folklife"
         ],
+        "itemtype": "Book",
+        "date": 1986,
+        "URI": "jp_cite_00423",
         "locations": {
         }
       },
@@ -32733,6 +34002,9 @@
           "Berlin, Ira,",
           "Morgan, Philip D.,"
         ],
+        "itemtype": "Book",
+        "date": 1991,
+        "URI": "jp_cite_00424",
         "locations": {
           "Caribbean": {
             "lat": 20.38583,
@@ -32781,6 +34053,9 @@
         "author": [
           "Berlin, Ira,"
         ],
+        "itemtype": "Book",
+        "date": 2003,
+        "URI": "jp_cite_00425",
         "locations": {
         }
       },
@@ -32798,6 +34073,9 @@
         "author": [
           "Bew, Paul"
         ],
+        "itemtype": "Book Section",
+        "date": 1982,
+        "URI": "jp_cite_00426",
         "locations": {
           "Ireland": {
             "lat": 53.0,
@@ -32831,6 +34109,9 @@
           "Bining, Arthur Cecil,",
           "Cochran, Thomas C."
         ],
+        "itemtype": "Book",
+        "date": 1964,
+        "URI": "jp_cite_00427",
         "locations": {
         }
       },
@@ -32848,6 +34129,9 @@
         "author": [
           "Blassingame, John W.,"
         ],
+        "itemtype": "Book",
+        "date": 1972,
+        "URI": "jp_cite_00428",
         "locations": {
         }
       },
@@ -32865,6 +34149,9 @@
         "author": [
           "Blaustein, David"
         ],
+        "itemtype": "Journal Article",
+        "date": 1907,
+        "URI": "jp_cite_00429",
         "locations": {
           "Woodbine, New Jersey": {
             "lat": 39.21915,
@@ -32898,6 +34185,9 @@
           "Bonacich, Edna.",
           "Modell, John."
         ],
+        "itemtype": "Book",
+        "date": 1980,
+        "URI": "jp_cite_00430",
         "locations": {
         }
       },
@@ -32915,6 +34205,9 @@
         "author": [
           "Bradlow, Edna"
         ],
+        "itemtype": "Journal Article",
+        "date": null,
+        "URI": "jp_cite_00431",
         "locations": {
           "South Africa": {
             "lat": -29.0,
@@ -32947,6 +34240,9 @@
         "author": [
           "Braudel, Fernand."
         ],
+        "itemtype": "Book",
+        "date": 1977,
+        "URI": "jp_cite_00432",
         "locations": {
         }
       },
@@ -32964,6 +34260,9 @@
         "author": [
           "Breeden, James O"
         ],
+        "itemtype": "Book",
+        "date": 1980,
+        "URI": "jp_cite_00433",
         "locations": {
           "Southern United States": {
             "lat": 33.16859,
@@ -32996,6 +34295,9 @@
         "author": [
           "Brickner, Barnett"
         ],
+        "itemtype": "Thesis",
+        "date": 1918,
+        "URI": "jp_cite_00434",
         "locations": {
           "Cincinnati, Ohio": {
             "lat": 39.162,
@@ -33028,6 +34330,9 @@
         "author": [
           "Brinkmann, Tobias"
         ],
+        "itemtype": "Webpage",
+        "date": "1/8/2013",
+        "URI": "jp_cite_00435",
         "locations": {
           "Eppelsheim, Germany": {
             "lat": 49.70556,
@@ -33126,6 +34431,9 @@
           "Miller, David W.,",
           "Larkin, Emmet J.,"
         ],
+        "itemtype": "Book",
+        "date": 2000,
+        "URI": "jp_cite_00436",
         "locations": {
           "Ireland": {
             "lat": 53.0,
@@ -33158,6 +34466,9 @@
         "author": [
           "Bruce, Henry Clay"
         ],
+        "itemtype": "Book",
+        "date": 1969,
+        "URI": "jp_cite_00437",
         "locations": {
           "Missouri": {
             "lat": 38.25031,
@@ -33206,6 +34517,9 @@
         "author": [
           "Bruce, Philip Alexander"
         ],
+        "itemtype": "Book",
+        "date": 1970,
+        "URI": "jp_cite_00438",
         "locations": {
           "Virginia": {
             "lat": 38.34982,
@@ -33238,6 +34552,9 @@
         "author": [
           "Cahan, Abraham"
         ],
+        "itemtype": "Book Section",
+        "date": 1905,
+        "URI": "jp_cite_00439",
         "locations": {
           "New York, New York": {
             "lat": 40.71427,
@@ -33302,6 +34619,9 @@
         "author": [
           "Calisch, Edward N"
         ],
+        "itemtype": "Book",
+        "date": 1969,
+        "URI": "jp_cite_00440",
         "locations": {
           "England": {
             "lat": 44.2056,
@@ -33334,6 +34654,9 @@
         "author": [
           "Carey, Kyle"
         ],
+        "itemtype": "Document",
+        "date": "12/1/1999",
+        "URI": "jp_cite_00441",
         "locations": {
           "Fall River, Massachusetts": {
             "lat": 41.70149,
@@ -33366,6 +34689,9 @@
         "author": [
           "Carlton, David L"
         ],
+        "itemtype": "Book",
+        "date": 1982,
+        "URI": "jp_cite_00442",
         "locations": {
           "South Carolina": {
             "lat": 34.00071,
@@ -33399,6 +34725,9 @@
           "Carmilly, Moshe",
           "Silber, Michael K"
         ],
+        "itemtype": "Book",
+        "date": 1992,
+        "URI": "jp_cite_00443",
         "locations": {
           "Hungary": {
             "lat": 47.0,
@@ -33431,6 +34760,9 @@
         "author": [
           "Cashin, Joan E"
         ],
+        "itemtype": "Book",
+        "date": 1991,
+        "URI": "jp_cite_00444",
         "locations": {
           "Southern United States": {
             "lat": 33.16859,
@@ -33463,6 +34795,9 @@
         "author": [
           "Cesarani, David"
         ],
+        "itemtype": "Book",
+        "date": 1994,
+        "URI": "jp_cite_00445",
         "locations": {
           "England": {
             "lat": 44.2056,
@@ -33495,6 +34830,9 @@
         "author": [
           "Chandler, Arthur D"
         ],
+        "itemtype": "Journal Article",
+        "date": 1969,
+        "URI": "jp_cite_00446",
         "locations": {
         }
       },
@@ -33512,6 +34850,9 @@
         "author": [
           "Chazan, Robert"
         ],
+        "itemtype": "Book",
+        "date": 2010,
+        "URI": "jp_cite_00447",
         "locations": {
         }
       },
@@ -33529,6 +34870,9 @@
         "author": [
           "Clark, Thomas Dionysius"
         ],
+        "itemtype": "Book",
+        "date": 1964,
+        "URI": "jp_cite_00448",
         "locations": {
           "Southern United States": {
             "lat": 33.16859,
@@ -33578,6 +34922,9 @@
           "Clarkson, Leslie A",
           "Crawford, E. Margaret"
         ],
+        "itemtype": "Book",
+        "date": 2001,
+        "URI": "jp_cite_00449",
         "locations": {
           "Ireland": {
             "lat": 53.0,
@@ -33610,6 +34957,9 @@
         "author": [
           "Cohen, Deborah"
         ],
+        "itemtype": "Book",
+        "date": 2006,
+        "URI": "jp_cite_00450",
         "locations": {
           "England": {
             "lat": 44.2056,
@@ -33643,6 +34993,9 @@
           "Cohen, Derek",
           "Heller, Deborah"
         ],
+        "itemtype": "Book",
+        "date": 1990,
+        "URI": "jp_cite_00451",
         "locations": {
           "England": {
             "lat": 44.2056,
@@ -33675,6 +35028,9 @@
         "author": [
           "Connolly, James"
         ],
+        "itemtype": "Book",
+        "date": 1919,
+        "URI": "jp_cite_00452",
         "locations": {
           "Ireland": {
             "lat": 53.0,
@@ -33707,6 +35063,9 @@
         "author": [
           "Conrad, David Eugene"
         ],
+        "itemtype": "Book",
+        "date": 1965,
+        "URI": "jp_cite_00453",
         "locations": {
           "Southern United States": {
             "lat": 33.16859,
@@ -33739,6 +35098,9 @@
         "author": [
           "Covner, Thelma C"
         ],
+        "itemtype": "Book",
+        "date": 1975,
+        "URI": "jp_cite_00454",
         "locations": {
           "Duluth, Minnesota": {
             "lat": 46.78327,
@@ -33773,6 +35135,9 @@
           "Miles, George A",
           "Gitlin, Jay"
         ],
+        "itemtype": "Book",
+        "date": 1992,
+        "URI": "jp_cite_00455",
         "locations": {
         }
       },
@@ -33790,6 +35155,9 @@
         "author": [
           "Cronon, William"
         ],
+        "itemtype": "Book",
+        "date": 1991,
+        "URI": "jp_cite_00456",
         "locations": {
           "Chicago, Illinois": {
             "lat": 41.85003,
@@ -33823,6 +35191,9 @@
           "Crooks, Daniel J",
           "Bostick, Douglas W"
         ],
+        "itemtype": "Book",
+        "date": 2008,
+        "URI": "jp_cite_00457",
         "locations": {
           "Charleston, South Carolina": {
             "lat": 32.77657,
@@ -33855,6 +35226,9 @@
         "author": [
           "Crowley, Elaine"
         ],
+        "itemtype": "Book",
+        "date": 1998,
+        "URI": "jp_cite_00458",
         "locations": {
           "Ireland": {
             "lat": 53.0,
@@ -33888,6 +35262,9 @@
           "Cullen, L. M",
           "White, Jack"
         ],
+        "itemtype": "Book",
+        "date": 1970,
+        "URI": "jp_cite_00459",
         "locations": {
           "Ireland": {
             "lat": 53.0,
@@ -33920,6 +35297,9 @@
         "author": [
           "Cullen, L. M"
         ],
+        "itemtype": "Book",
+        "date": 1972,
+        "URI": "jp_cite_00460",
         "locations": {
           "Ireland": {
             "lat": 53.0,
@@ -33952,6 +35332,9 @@
         "author": [
           "Curtin, Philip D"
         ],
+        "itemtype": "Book",
+        "date": 1984,
+        "URI": "jp_cite_00461",
         "locations": {
         }
       },
@@ -33969,6 +35352,9 @@
         "author": [
           "Dahl, Sven"
         ],
+        "itemtype": "Journal Article",
+        "date": "7/1/1959",
+        "URI": "jp_cite_00462",
         "locations": {
           "Sweden": {
             "lat": 62.0,
@@ -34001,6 +35387,9 @@
         "author": [
           "Danbom, David B"
         ],
+        "itemtype": "Book",
+        "date": 1995,
+        "URI": "jp_cite_00463",
         "locations": {
           "United States": {
             "lat": 39.76,
@@ -34033,6 +35422,9 @@
         "author": [
           "Davitt, Michael"
         ],
+        "itemtype": "Book",
+        "date": 1975,
+        "URI": "jp_cite_00464",
         "locations": {
           "Moldova": {
             "lat": 47.25,
@@ -34081,6 +35473,9 @@
         "author": [
           "Devol, George H"
         ],
+        "itemtype": "Book",
+        "date": 1887,
+        "URI": "jp_cite_00465",
         "locations": {
           "Mississippi River": {
             "lat": 30.76858,
@@ -34113,6 +35508,9 @@
         "author": [
           "Doherty, Philip"
         ],
+        "itemtype": "Journal Article",
+        "date": 1994,
+        "URI": "jp_cite_00466",
         "locations": {
           "Dublin, Ireland": {
             "lat": 53.33306,
@@ -34145,6 +35543,9 @@
         "author": [
           "Dolan, J. R"
         ],
+        "itemtype": "Book",
+        "date": 1964,
+        "URI": "jp_cite_00467",
         "locations": {
           "United States": {
             "lat": 39.76,
@@ -34177,6 +35578,9 @@
         "author": [
           "Donnelly, James S"
         ],
+        "itemtype": "Book",
+        "date": 1987,
+        "URI": "jp_cite_00468",
         "locations": {
           "Cork, Ireland": {
             "lat": 51.89797,
@@ -34212,6 +35616,9 @@
           "Cohen, Steven Martin",
           "Mazal Holocaust Collection"
         ],
+        "itemtype": "Book",
+        "date": 1991,
+        "URI": "jp_cite_00469",
         "locations": {
           "Alsace, France": {
             "lat": 48.33333,
@@ -34327,6 +35734,9 @@
           "Dowd, James",
           "O'Carroll, Cian"
         ],
+        "itemtype": "Book",
+        "date": 1990,
+        "URI": "jp_cite_00470",
         "locations": {
           "Limerick, Ireland": {
             "lat": 52.66472,
@@ -34361,6 +35771,9 @@
           "Shapiro, Beatrice Michaels",
           "Chicago Jewish Historical Society"
         ],
+        "itemtype": "Book",
+        "date": 1991,
+        "URI": "jp_cite_00471",
         "locations": {
           "Chicago, Illinois": {
             "lat": 41.85003,
@@ -34393,6 +35806,9 @@
         "author": [
           "Eby, Kermit"
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/1949",
+        "URI": "jp_cite_00472",
         "locations": {
           "Indiana": {
             "lat": 40.00032,
@@ -34428,6 +35844,9 @@
           "Werner, Simcha",
           "Merkaz le-ḥeḳer ha-ḳehilah ha-Yehudit (Jerusalem)"
         ],
+        "itemtype": "Book",
+        "date": 1984,
+        "URI": "jp_cite_00473",
         "locations": {
           "Scandinavia": {
             "lat": 63.0,
@@ -34461,6 +35880,9 @@
           "Elazar, Daniel Judah",
           "Medding, Peter"
         ],
+        "itemtype": "Book",
+        "date": 1983,
+        "URI": "jp_cite_00474",
         "locations": {
           "Argentina": {
             "lat": -34.0,
@@ -34526,6 +35948,9 @@
           "Ellis, Havelock",
           "Flynt, Josiah"
         ],
+        "itemtype": "Book Section",
+        "date": 1927,
+        "URI": "jp_cite_00475",
         "locations": {
           "Germany": {
             "lat": 51.5,
@@ -34558,6 +35983,9 @@
         "author": [
           "Emmanuel, Isaac Samuel"
         ],
+        "itemtype": "Book",
+        "date": 1973,
+        "URI": "jp_cite_00476",
         "locations": {
           "Coro, Venezuela": {
             "lat": 11.4045,
@@ -34590,6 +36018,9 @@
         "author": [
           "Endelman, Judith E"
         ],
+        "itemtype": "Book",
+        "date": 1984,
+        "URI": "jp_cite_00477",
         "locations": {
           "Indianapolis, Indiana": {
             "lat": 39.76838,
@@ -34622,6 +36053,9 @@
         "author": [
           "Euraque, Darío A."
         ],
+        "itemtype": "Journal Article",
+        "date": "3/1/1997",
+        "URI": "jp_cite_00478",
         "locations": {
           "Pedro Sula, Honduras": {
             "lat": 15.50417,
@@ -34654,6 +36088,9 @@
         "author": [
           "Falk, Randall M."
         ],
+        "itemtype": "Thesis",
+        "date": 1946,
+        "URI": "jp_cite_00479",
         "locations": {
           "Tulsa, Oklahoma": {
             "lat": 36.15398,
@@ -34702,6 +36139,9 @@
         "author": [
           "Fauman, S. Joseph"
         ],
+        "itemtype": "Journal Article",
+        "date": "1/1/1941",
+        "URI": "jp_cite_00480",
         "locations": {
           "Detroit, Michigan": {
             "lat": 42.33143,
@@ -34734,6 +36174,9 @@
         "author": [
           "Feeley, Pat"
         ],
+        "itemtype": "Journal Article",
+        "date": "1983 Spring",
+        "URI": "jp_cite_00481",
         "locations": {
           "Limerick, Ireland": {
             "lat": 52.66472,
@@ -34766,6 +36209,9 @@
         "author": [
           "Feibelman, Julian Beck"
         ],
+        "itemtype": "Thesis",
+        "date": 1941,
+        "URI": "jp_cite_00482",
         "locations": {
           "New Orleans, Louisiana": {
             "lat": 29.95465,
@@ -34799,6 +36245,9 @@
           "Feig, Konnilyn G.",
           "Jewish Federation of Southern Maine"
         ],
+        "itemtype": "Book",
+        "date": "9/1/1977",
+        "URI": "jp_cite_00483",
         "locations": {
           "Portland, Maine": {
             "lat": 43.66147,
@@ -34847,6 +36296,9 @@
         "author": [
           "Glanz, Rudolf"
         ],
+        "itemtype": "Journal Article",
+        "date": "4/1/1945",
+        "URI": "jp_cite_00484",
         "locations": {
           "Reading, Pennsylvania": {
             "lat": 40.33565,
@@ -35055,6 +36507,9 @@
         "author": [
           "Horowitz, Daniel"
         ],
+        "itemtype": "Book",
+        "date": 1985,
+        "URI": "jp_cite_00485",
         "locations": {
           "United States": {
             "lat": 39.76,
@@ -35087,6 +36542,9 @@
         "author": [
           "Kaplan, Yosef"
         ],
+        "itemtype": "Book Section",
+        "date": 2002,
+        "URI": "jp_cite_00486",
         "locations": {
           "Netherlands": {
             "lat": 52.25,
@@ -35119,6 +36577,9 @@
         "author": [
           "Karp, Jonathan"
         ],
+        "itemtype": "Journal Article",
+        "date": 2007,
+        "URI": "jp_cite_00487",
         "locations": {
         }
       },
@@ -35137,6 +36598,9 @@
           "Fisch, Harold",
           "Mazal Holocaust Collection"
         ],
+        "itemtype": "Book",
+        "date": 1971,
+        "URI": "jp_cite_00488",
         "locations": {
         }
       },
@@ -35154,6 +36618,9 @@
         "author": [
           "Finkelstein, Louis"
         ],
+        "itemtype": "Book",
+        "date": 1949,
+        "URI": "jp_cite_00489",
         "locations": {
         }
       },
@@ -35171,6 +36638,9 @@
         "author": [
           "Finkus"
         ],
+        "itemtype": "Journal Article",
+        "date": "6/1/1923",
+        "URI": "jp_cite_00490",
         "locations": {
         }
       },
@@ -35188,6 +36658,9 @@
         "author": [
           "Fisher, Leonard Everett"
         ],
+        "itemtype": "Book",
+        "date": 1968,
+        "URI": "jp_cite_00491",
         "locations": {
         }
       },
@@ -35205,6 +36678,9 @@
         "author": [
           "Fishman, Bernard"
         ],
+        "itemtype": "Journal Article",
+        "date": 1986,
+        "URI": "jp_cite_00492",
         "locations": {
           "Baltimore, Maryland": {
             "lat": 39.29038,
@@ -35269,6 +36745,9 @@
         "author": [
           "Fishman, Bernard"
         ],
+        "itemtype": "Journal Article",
+        "date": 1986,
+        "URI": "jp_cite_00493",
         "locations": {
           "Baltimore, Maryland": {
             "lat": 39.29038,
@@ -35317,6 +36796,9 @@
         "author": [
           "Tyrrell, Mary O'Brien"
         ],
+        "itemtype": "Book",
+        "date": 2006,
+        "URI": "jp_cite_00494",
         "locations": {
           "Minneapolis, Minnesota": {
             "lat": 44.97997,
@@ -35397,6 +36879,9 @@
         "author": [
           "Fitzpatrick, David"
         ],
+        "itemtype": "Book Section",
+        "date": 1982,
+        "URI": "jp_cite_00495",
         "locations": {
           "Ireland": {
             "lat": 53.0,
@@ -35429,6 +36914,9 @@
         "author": [
           "Fitzpatrick, David"
         ],
+        "itemtype": "Book",
+        "date": 1977,
+        "URI": "jp_cite_00496",
         "locations": {
           "Ireland": {
             "lat": 53.0,
@@ -35461,6 +36949,9 @@
         "author": [
           "Flade, Roland"
         ],
+        "itemtype": "Book",
+        "date": 1999,
+        "URI": "jp_cite_00497",
         "locations": {
           "Rimpar, Germany": {
             "lat": 49.85692,
@@ -35621,6 +37112,9 @@
         "author": [
           "Shaviv, Miriam"
         ],
+        "itemtype": "Webpage",
+        "date": null,
+        "URI": null,
         "locations": {
         }
       },
