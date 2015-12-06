@@ -1,0 +1,64 @@
+<html>
+<head>
+    <title>peddler interface, december 2015</title>
+    <link rel="stylesheet" href="../leaflet/leaflet.css"/>
+    <link rel="stylesheet" href="../leaflet/MarkerCluster.css"/>
+    <link rel="stylesheet" href="../leaflet/MarkerCluster.Default.css"/>
+    <script src="../leaflet/leaflet.js"></script>
+    <script src="../leaflet/leaflet.markercluster-src.js"></script>
+    <script src="../leaflet/Autolinker.min.js"></script>
+    <script src="./hashWithGeoJSON.js"></script>
+    <style>
+        h3 {
+            color: #0078A8;
+            margin-bottom: 4px;
+        }
+    </style>
+</head>
+<body id="map" style="width: 100%; height: 100%; margin: 0px; padding: 0px;">
+<div></div>
+
+<script>
+
+    //	function onEachFeature(feature, layer) {
+    //		// does this feature have a property named popupContent?
+    //		if (feature.properties && feature.properties.text) {
+    //			layer.bindPopup("<h3>" + feature.properties.text + "</h3><b>" + feature.properties.name +
+    //					"</b> (" + feature.properties.screen_name + ")<br><i>" +
+    //					feature.properties.created_at + "</i><br><img src=\"" + feature.properties.profile_image_url + "\">");
+    //		}
+    //	}
+
+    var tiles = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+                maxZoom: 18,
+                attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors, Points &copy 2012 LINZ',
+                detectRetina: true
+            }),
+            latlng = L.latLng(40.7, -74);
+
+    var map = L.map('map', {center: latlng, zoom: 7, layers: [tiles]});
+
+    //	L.geoJson(peddlerhash, {
+    //		onEachFeature: onEachFeature
+    //	}).addTo(map);
+
+    var markers = L.markerClusterGroup();
+
+    for (var i = 0; i < peddlerhash["features"].length; i++) {
+        for (var j = 0; j < peddlerhash["features"][i]["geometry"]["coordinates"].length; j++) {
+            var a = peddlerhash["features"][i];
+            var titletext = a["properties"]["name"];
+            var username = a["properties"]["screen_name"];
+            var time = a["properties"]["created_at"];
+            var img_url = a["properties"]["profile_image_url"];
+            var marker = L.marker(new L.LatLng(a["geometry"]["coordinates"][j][1], a["geometry"]["coordinates"][j][0]), {title: titletext});
+
+            marker.bindPopup("<h3>" + titletext + "</h3><b>");
+            markers.addLayer(marker);
+        }
+    }
+
+    map.addLayer(markers);
+
+</script>
+</html>
